@@ -8,7 +8,7 @@ supertitle: Introduction to the testimony of
 title: Hans Frei
 hvtID: '0170'
 author: Ion Popa
-affiliation: Universityof Manchester
+affiliation: University of Manchester
 essayPath: "/data/intro-hvt-0170.json"
 publicationDate: February 1, 2021
 ```
