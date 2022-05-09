@@ -149,6 +149,7 @@ Robert Matteson offered the following account of what he and Sidney Bruskin expe
 type: "video"
 data:
     src: https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=942&e=982 
+	srcset: https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=942&e=982 
     caption: "Bruskin discusses his knowledge of concentration camps."
 ```
 
