@@ -145,6 +145,14 @@ Robert Matteson offered the following account of what he and Sidney Bruskin expe
 
 [^36]: Robert Matteson, 'The Last Days of Ernst Kaltenbrunner' (CIA Library's Center for the Study of Intelligence, 2007), 4: <https://www.cia.gov/static/eb2a597a1af439815b52e9b7ab190daa/Last-Days-of-Kaltenbrunner.pdf>.
 
+```yaml:block
+type: "video"
+data:
+    src: https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=942&e=982 
+    caption: "Bruskin discusses his knowledge of concentration camps."
+```
+
+
 The encounters at liberation were rather extraordinary. One American recalled that the inmates looked like aliens—as though they came from another planet. The inmates in turn stared at the Americans. One response was for the different nationalities to sing songs in their native language: gathered in the Appellplatz, the Poles sang a Polish hymn, the Greeks sang a national song, and the French sang *La Marseillaise*.[^37] Soon after the arrival of the Americans, the prisoners offered the officers food and directed them to the canteen, where they offered their thin gruel. At first, the Americans hesitated, but when told that not eating was a serious insult, they relented and tasted a couple of spoonfuls each of the wretched soup.[^38] The liberators and prisoners then shook hands and moved on to address the calamitous situation at hand. There is a scholarly literature on Ebensee.[^39] Historian Florian Freund provides a careful study, adding details such as that the liberators of the Ebensee camp belonged to the 3rd Cavalry Reconnaissance Squadron of the 80th Infantry Division under the command of Lt. Col. Wallach and the A-Troops under the command of Captain Howk.[^40] There is an even larger corpus on the liberation of concentration and death camps.[^41] 
 
 [^37]: See the history of KZ Ebensee: <https://web.archive.org/web/20110706093346/http://www.memorial-ebensee.at/english/history.html> (accessed 21 July 2021).
@@ -157,23 +165,11 @@ The encounters at liberation were rather extraordinary. One American recalled th
 
 [^41]: Robert Abzug, *Inside the Vicious Heart* (Oxford: Oxford University Press, 1987). See also Stephen Goodell and Sybil Milton, *1945: The Year of Liberation* (Washington, D.C., U.S. Holocaust Memorial Museum, 1995); Ben Shephard, *After Daybreak: The Liberation of Belsen, 1945* (London, Jonathan Cape, 2005); John McManus, *Hell Before Their Very Eyes: American Soldiers Liberate Concentration Camps in Germany, April 1945* (Baltimore: Johns Hopkins University Press, 2015); Stiftung Gedenkstaetten Buchenwald and Mittelbau-Dora, eds., *60. Jahrestag der Befreiung der Konzentrationslager Buchenwald und Mittelbau-Dora* (Weimar: Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora, 2005). See also the authoritative study by Nikolaus Wachsmann, *KZ: A History of the Nazi Concentration Camps* (New York: Farrar, Straus and Giroux, 2015).
 
-```yaml:embed:aviary:fortunoff
-ead_id: mssa.hvt.2348
-tape: 1
-start_time: 2230
-end_time: 2280
-```
 
 Sidney Bruskin stated in his interview that he may have been at Ebensee on May 6th—that is, the day of the official liberation. He acknowledges that he may have arrived on a subsequent day, but from his testimony, it appears highly likely that he was at Ebensee on the 6th or 7th of May. Bruskin evidently saw the prisoners so soon after liberation that they had had little opportunity to recover from their harsh treatment. As the statistics above reveal, many prisoners were barely alive and could not be saved by the liberators. The sight of the crematorium also seems to have shaken the young Bruskin. Even though 'only' one-third of the Ebensee inmates were Jewish, the experience had a profound effect on him spiritually and in terms of his own identity.[^42] 
 
 [^42]: See the History of KZ Ebensee at <https://web.archive.org/web/20110706093346/http://www.memorial-ebensee.at/english/history.html> (accessed 21 July 2021); <http://memorial-ebensee.at/index.php/de/geschichte/20-regional-schwerpunkte/20-geschichte-kzgedenkstaette>.
 
-```yaml:embed:aviary:fortunoff
-footnote: 42
-ead_id: mssa.hvt.2348
-tape: 1
-start_time: 2534
-end_time: 2604
-``` 
+
 
 
