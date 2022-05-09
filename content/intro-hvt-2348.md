@@ -145,13 +145,6 @@ Robert Matteson offered the following account of what he and Sidney Bruskin expe
 
 [^36]: Robert Matteson, 'The Last Days of Ernst Kaltenbrunner' (CIA Library's Center for the Study of Intelligence, 2007), 4: <https://www.cia.gov/static/eb2a597a1af439815b52e9b7ab190daa/Last-Days-of-Kaltenbrunner.pdf>.
 
-```yaml:block
-type: "video"
-data:
-    src: "https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=942" allow="fullscreen" frameborder="0"
-    caption: "Bruskin discusses his knowledge of concentration camps."
-```
-
 The encounters at liberation were rather extraordinary. One American recalled that the inmates looked like aliens—as though they came from another planet. The inmates in turn stared at the Americans. One response was for the different nationalities to sing songs in their native language: gathered in the Appellplatz, the Poles sang a Polish hymn, the Greeks sang a national song, and the French sang *La Marseillaise*.[^37] Soon after the arrival of the Americans, the prisoners offered the officers food and directed them to the canteen, where they offered their thin gruel. At first, the Americans hesitated, but when told that not eating was a serious insult, they relented and tasted a couple of spoonfuls each of the wretched soup.[^38] The liberators and prisoners then shook hands and moved on to address the calamitous situation at hand. There is a scholarly literature on Ebensee.[^39] Historian Florian Freund provides a careful study, adding details such as that the liberators of the Ebensee camp belonged to the 3rd Cavalry Reconnaissance Squadron of the 80th Infantry Division under the command of Lt. Col. Wallach and the A-Troops under the command of Captain Howk.[^40] There is an even larger corpus on the liberation of concentration and death camps.[^41] 
 
 [^37]: See the history of KZ Ebensee: <https://web.archive.org/web/20110706093346/http://www.memorial-ebensee.at/english/history.html> (accessed 21 July 2021).
