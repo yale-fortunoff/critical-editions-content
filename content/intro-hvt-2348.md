@@ -158,7 +158,6 @@ The encounters at liberation were rather extraordinary. One American recalled th
 [^41]: Robert Abzug, *Inside the Vicious Heart* (Oxford: Oxford University Press, 1987). See also Stephen Goodell and Sybil Milton, *1945: The Year of Liberation* (Washington, D.C., U.S. Holocaust Memorial Museum, 1995); Ben Shephard, *After Daybreak: The Liberation of Belsen, 1945* (London, Jonathan Cape, 2005); John McManus, *Hell Before Their Very Eyes: American Soldiers Liberate Concentration Camps in Germany, April 1945* (Baltimore: Johns Hopkins University Press, 2015); Stiftung Gedenkstaetten Buchenwald and Mittelbau-Dora, eds., *60. Jahrestag der Befreiung der Konzentrationslager Buchenwald und Mittelbau-Dora* (Weimar: Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora, 2005). See also the authoritative study by Nikolaus Wachsmann, *KZ: A History of the Nazi Concentration Camps* (New York: Farrar, Straus and Giroux, 2015).
 
 ```yaml:embed:aviary:fortunoff
-footnote: 41
 ead_id: mssa.hvt.2348
 tape: 1
 start_time: 2230
