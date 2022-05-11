@@ -141,10 +141,23 @@ Robert Matteson offered the following account of what he and Sidney Bruskin expe
 
 >"Proceeding the same day up the long Traunsee shore into the Redoubt area with a tank battalion, Sid [Bruskin] and I were afforded the opportunity to examine a concrete manifestation of Kaltenbrunner's work, the concentration camp at Ebensee. Part of the Mauthausen extermination system built up by Kaltenbrunner when he had been the 'Little Himmler' of Austria, it seemed more horrible even than Dachau or Ohrdruf. Bodies that one would never have believed could exist alive were walking around, covered with sores and lice. The filth was indescribable. Adjacent to the crematorium were rooms piled high with shrunken nude bodies, lye thrown over them to combat the stench and vermin. The excess bodies that couldn't be handled at the crematorium were hauled by the wagonload to another part of the enclosure, where they were dumped into open pits filled with a chemical solution. Worse still was the hospital, where the dying and sick had been herded for experimentation before being carted off to the crematorium. There were no beds in it; the inmates lay on shelves covered with dirty rags, groups of two or three huddled together like mice to keep warm. As we entered they put out their hands and begged for food. When we told them we had none, but that the American medics and military government personnel would be along immediately, they broke down and sobbed, "We have waited for you four, five, six years. Now you come empty-handed."[^35]
 
+```yaml:block
+type: "paragraph"
+data: 
+    text: '<div style="padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;"><iframe style="position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;" src="https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=942&e=982" allow="fullscreen" frameborder="0"></iframe></div>'
+	caption: "Bruskin discusses his knowledge of concentration camps."
+```
+
 [^35]: Robert Matteson, 'The Last Days of Ernst Kaltenbrunner' (CIA Library's Center for the Study of Intelligence, 2007), 4: <https://www.cia.gov/static/eb2a597a1af439815b52e9b7ab190daa/Last-Days-of-Kaltenbrunner.pdf>.
 
-
 The encounters at liberation were rather extraordinary. One American recalled that the inmates looked like aliens—as though they came from another planet. The inmates in turn stared at the Americans. One response was for the different nationalities to sing songs in their native language: gathered in the Appellplatz, the Poles sang a Polish hymn, the Greeks sang a national song, and the French sang *La Marseillaise*.[^36] Soon after the arrival of the Americans, the prisoners offered the officers food and directed them to the canteen, where they offered their thin gruel. At first, the Americans hesitated, but when told that not eating was a serious insult, they relented and tasted a couple of spoonfuls each of the wretched soup.[^37] The liberators and prisoners then shook hands and moved on to address the calamitous situation at hand. There is a scholarly literature on Ebensee.[^38] Historian Florian Freund provides a careful study, adding details such as that the liberators of the Ebensee camp belonged to the 3rd Cavalry Reconnaissance Squadron of the 80th Infantry Division under the command of Lt. Col. Wallach and the A-Troops under the command of Captain Howk.[^39] There is an even larger corpus on the liberation of concentration and death camps.[^40] 
+
+```yaml:block
+type: "paragraph"
+data: 
+    text: '<div style="padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;"><iframe style="position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;" src="https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=2230&e=2280" allow="fullscreen" frameborder="0"></iframe></div>'
+	caption: "Bruskin becomes emotional reflecting on the bodies in the crematorium."
+```
 
 [^36]: See the history of KZ Ebensee: <https://web.archive.org/web/20110706093346/http://www.memorial-ebensee.at/english/history.html> (accessed 21 July 2021).
 
@@ -156,8 +169,14 @@ The encounters at liberation were rather extraordinary. One American recalled th
 
 [^40]: Robert Abzug, *Inside the Vicious Heart* (Oxford: Oxford University Press, 1987). See also Stephen Goodell and Sybil Milton, *1945: The Year of Liberation* (Washington, D.C., U.S. Holocaust Memorial Museum, 1995); Ben Shephard, *After Daybreak: The Liberation of Belsen, 1945* (London, Jonathan Cape, 2005); John McManus, *Hell Before Their Very Eyes: American Soldiers Liberate Concentration Camps in Germany, April 1945* (Baltimore: Johns Hopkins University Press, 2015); Stiftung Gedenkstaetten Buchenwald and Mittelbau-Dora, eds., *60. Jahrestag der Befreiung der Konzentrationslager Buchenwald und Mittelbau-Dora* (Weimar: Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora, 2005). See also the authoritative study by Nikolaus Wachsmann, *KZ: A History of the Nazi Concentration Camps* (New York: Farrar, Straus and Giroux, 2015).
 
-
 Sidney Bruskin stated in his interview that he may have been at Ebensee on May 6th—that is, the day of the official liberation. He acknowledges that he may have arrived on a subsequent day, but from his testimony, it appears highly likely that he was at Ebensee on the 6th or 7th of May. Bruskin evidently saw the prisoners so soon after liberation that they had had little opportunity to recover from their harsh treatment. As the statistics above reveal, many prisoners were barely alive and could not be saved by the liberators. The sight of the crematorium also seems to have shaken the young Bruskin. Even though 'only' one-third of the Ebensee inmates were Jewish, the experience had a profound effect on him spiritually and in terms of his own identity.[^41] 
+
+```yaml:block
+type: "paragraph"
+data: 
+    text: '<div style="padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;"><iframe style="position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;" src="https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=2534&e=2604" allow="fullscreen" frameborder="0"></iframe></div>'
+	caption: "Bruskin reflects on how being at Ebensee changed him."
+```
 
 [^41]: See the History of KZ Ebensee at <https://web.archive.org/web/20110706093346/http://www.memorial-ebensee.at/english/history.html> (accessed 21 July 2021); <http://memorial-ebensee.at/index.php/de/geschichte/20-regional-schwerpunkte/20-geschichte-kzgedenkstaette>.
 
