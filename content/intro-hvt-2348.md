@@ -145,7 +145,6 @@ Robert Matteson offered the following account of what he and Sidney Bruskin expe
 type: "paragraph"
 data: 
     text: '<div style="padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;"><iframe style="position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;" src="https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=942&e=982" allow="fullscreen" frameborder="0"></iframe></div>'
-	caption: "Bruskin discusses his knowledge of concentration camps."
 ```
 
 [^35]: Robert Matteson, 'The Last Days of Ernst Kaltenbrunner' (CIA Library's Center for the Study of Intelligence, 2007), 4: <https://www.cia.gov/static/eb2a597a1af439815b52e9b7ab190daa/Last-Days-of-Kaltenbrunner.pdf>.
@@ -156,7 +155,6 @@ The encounters at liberation were rather extraordinary. One American recalled th
 type: "paragraph"
 data: 
     text: '<div style="padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;"><iframe style="position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;" src="https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=2230&e=2280" allow="fullscreen" frameborder="0"></iframe></div>'
-	caption: "Bruskin becomes emotional reflecting on the bodies in the crematorium."
 ```
 
 [^36]: See the history of KZ Ebensee: <https://web.archive.org/web/20110706093346/http://www.memorial-ebensee.at/english/history.html> (accessed 21 July 2021).
@@ -175,7 +173,6 @@ Sidney Bruskin stated in his interview that he may have been at Ebensee on May 6
 type: "paragraph"
 data: 
     text: '<div style="padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;"><iframe style="position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;" src="https://fortunoff.aviaryplatform.com/embed/media/90304?media=90304&t=2534&e=2604" allow="fullscreen" frameborder="0"></iframe></div>'
-	caption: "Bruskin reflects on how being at Ebensee changed him."
 ```
 
 [^41]: See the History of KZ Ebensee at <https://web.archive.org/web/20110706093346/http://www.memorial-ebensee.at/english/history.html> (accessed 21 July 2021); <http://memorial-ebensee.at/index.php/de/geschichte/20-regional-schwerpunkte/20-geschichte-kzgedenkstaette>.
