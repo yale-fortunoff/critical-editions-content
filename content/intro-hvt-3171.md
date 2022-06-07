@@ -55,7 +55,7 @@ The local police commander, Janica, who according to Prajs was named Bolesław a
 
 [^10]: Henryk Prajs' testimony, 2005.
 
-[^11]: Senior leader Jan Michał Janica, born in 1889, murdered in Tver in the spring of 1940; <https://policjapanstwowa.pl/index-190.htm.>
+[^11]: Senior leader Jan Michał Janica, born in 1889, murdered in Tver in the spring of 1940; <https://policjapanstwowa.pl/index-190.htm>.
 
 [^12]: Following the secret resolution of the Political Bureau of the All-Union Communist Party (Bolsheviks), initiated by Joseph Stalin on March 5, 1940, the interned officers of the Polish Army, police officers, and political prisoners who were Polish citizens were deemed "sworn enemies of the Soviet authorities who held no promise of improvement," and executed. During the spring of 1940, NKVD officers murdered 22,000 Polish citizens.
 
