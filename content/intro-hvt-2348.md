@@ -6,7 +6,7 @@ posterPath: https://d12q9fe14kxf9b.cloudfront.net/2348/poster.jpg
 aviaryLink: https://fortunoff.aviaryplatform.com/collections/5/collection_resources/2408/transcript
 hvtID: '2348'
 supertitle: Introduction to the testimony of
-title: Sidney Bruskin
+title: Sidney Bruskin_
 author: Jonathan Petropoulos
 affiliation: Claremont McKenna College
 essayPath: "/data/intro-hvt-2348.json"
