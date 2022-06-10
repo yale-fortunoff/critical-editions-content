@@ -1,16 +1,16 @@
 ```yaml:meta
 slug: hvt-3171
-videoPath: https://d12q9fe14kxf9b.cloudfront.net/2348/background-loop-1280.mp4
-smallVideoPath: https://d12q9fe14kxf9b.cloudfront.net/2348/background-loop-640.mp4
-posterPath: https://d12q9fe14kxf9b.cloudfront.net/2348/poster.jpg 
-aviaryLink: https://fortunoff.aviaryplatform.com/collections/5/collection_resources/2408/transcript
+videoPath: https://d12q9fe14kxf9b.cloudfront.net/3171/background-loop-1280.mp4
+smallVideoPath: https://d12q9fe14kxf9b.cloudfront.net/3171/background-loop-640.mp4
+posterPath: https://d12q9fe14kxf9b.cloudfront.net/3171/poster.jpg 
+aviaryLink: https://fortunoff.aviaryplatform.com/collections/5/collection_resources/3221/transcript?collection_resource_file_id=75150
 hvtID: '3171'
 supertitle: Introduction to the testimony of
 title: Henryk Prajs
 author: Rafał Wnuk
 affiliation: Catholic University of Lublin
 essayPath: "/data/intro-hvt-3171.json"
-publicationDate: May 6, 2022
+publicationDate: June 10, 2022
 ```
 
 The leitmotif of the 1995 testimony of Henryk Prajs, stored in the Fortunoff Video Archive, is the town of Góra Kalwaria, where he was born, where he lived before the war, and to which he returned after it.[^1] Today part of the Warsaw metropolis, before World War II it was a small town located on the west bank of the Vistula river, less than 30 kilometers south of Warsaw. In 1939 it was inhabited by 7,300 people, including 3,500 Jews.
@@ -149,7 +149,7 @@ Prajs did not leave Poland, neither after the 1946 Kielce pogrom,[^33] nor durin
 
 > Shame on you if any of you from 1968 are still alive. Shame on you. You have disgraced yourselves, your regime, and your political agreement. Even if Moczar is gone, if anyone from his group is alive, they should be ashamed of themselves. You cannot imagine what we, Jews, went through in '68. If it had not been for Cardinal Wyszyński, there would have been a pogrom on Jews. Let me stress that. There would have been a pogrom. But [it was avoided] because Wyszyński said: 'Don't be fooled. The Jews are innocent in this case.'
 
-[^33]: The pogrom in Kielce took place on June 4, 1946. The accusation that Jews had kidnapped a Polish boy for ritual slaughter led to a pogrom, as a result of which 42 people died and 40 were wounded. It also led to antisemitic incidents in several localities in the Kielce region and an intensification of Jewish emigration. During the three months following the pogrom, 60,000 Jews left the country. The total number of Jews who left Poland between 1945 and 1947 is estimated at 140,000. M. Semczyszyn, "Nielegalna emigracja Żydów z Polski 1944-1947 –  kontekst międzynarodowy," Dzieje Najnowsze 1 (2018), 113; M. Zaremba, *Wielka trwoga: Polska 1944-1947. Ludowa reakcja na kryzys* (Cracow, Wydawnitwo Znak, ISP PAN, 2012), 606-616.
+[^33]: The pogrom in Kielce took place on June 4, 1946. The accusation that Jews had kidnapped a Polish boy for ritual slaughter led to a pogrom, as a result of which 42 people died and 40 were wounded. It also led to antisemitic incidents in several localities in the Kielce region and an intensification of Jewish emigration. During the three months following the pogrom, 60,000 Jews left the country. The total number of Jews who left Poland between 1945 and 1947 is estimated at 140,000. M. Semczyszyn, "Nielegalna emigracja Żydów z Polski 1944-1947 –  kontekst międzynarodowy," *Dzieje Najnowsze* 1 (2018), 113; M. Zaremba, *Wielka trwoga: Polska 1944-1947. Ludowa reakcja na kryzys* (Cracow, Wydawnitwo Znak, ISP PAN, 2012), 606-616.
 
 [^34]: Approximately 50,000 Jews emigrated during 1956-1960, taking advantage of the liberalization connected with the post-Stalinist thaw. Dariusz Stola, "Jewish Emigration from Communist Poland: the Decline of Polish Jewry in the Aftermath of the Holocaust," *East European Jewish Affairs* 47 (2017), 175-179.
 
