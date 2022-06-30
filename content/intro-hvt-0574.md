@@ -109,8 +109,8 @@ Hauser's testimony corroborates this history of violence while adding another vi
 ```yaml:block
 type: "image"
 data:
-    src: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-574/LowerEditionMap.png"
-    srcset: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-574/LowerEditionMap.png"
+    src: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-0574/LowerEditionMap.png"
+    srcset: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-0574/LowerEditionMap.png"
     caption: "Text."  
 ```
 
