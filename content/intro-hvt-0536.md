@@ -423,7 +423,7 @@ Survival was guaranteed for none, but as Nadler indicated in the reference to hi
 
 [^112]: Govrin, *In the Shadow of Destruction*, 44.
 
-The narratives accessible to us today are, by nature, almost exclusively those of the relatively privileged, who inhabited rungs higher up the hierarchical ladder. Those who survived did so primarily because through some means they were able to procure work, food, and shelter. In his interview, author Edgar Hilsenrath states explicitly that his experience was privileged,[113] while Nadler acknowledged as much in the following exchange: 
+The narratives accessible to us today are, by nature, almost exclusively those of the relatively privileged, who inhabited rungs higher up the hierarchical ladder. Those who survived did so primarily because through some means they were able to procure work, food, and shelter. In his interview, author Edgar Hilsenrath states explicitly that his experience was privileged,[^113] while Nadler acknowledged as much in the following exchange: 
 
 > DAVID TERMAN: Why do you think you survived and the others did not? 
 >
