@@ -1,7 +1,7 @@
 ```yaml:meta
 slug: hvt-0536
 smallVideoPath: https://d12q9fe14kxf9b.cloudfront.net/0536/background-loop-640.mp4
-videoPath: https://d12q9fe14kxf9b.cloudfront.net/0536/background-loop-1280-2.mp4
+videoPath: https://d12q9fe14kxf9b.cloudfront.net/0536/background-loop-1280.mp4
 posterPath: https://d12q9fe14kxf9b.cloudfront.net/0536/poster.jpg
 aviaryLink: https://fortunoff.aviaryplatform.com/collections/5/collection_resources/606/transcript?u=t&keywords[]=mssa.hvt.0536
 supertitle: Introduction to the testimony of
@@ -14,7 +14,7 @@ publicationDate: July 15, 2022
 ```
 
 > The most immediate impact of atrocity is on the cosmos of each individual self; and it is that impact we need to grasp first if we are to understand something of the nature of such events and their consequences.  
-Eva Hoffman [^1]
+\-Eva Hoffman [^1]
 
 [^1]: Eva Hoffman, *After Such Knowledge: Memory, History and the Legacy of the Holocaust* (New York: Public Affairs, 2004), 163.
 
@@ -107,7 +107,7 @@ Indicative of the vibrant and overlapping social and political spheres in the to
 
 [^29]: On the history of the Bund in Bukovina, see Dr. Joseph Kissman "Zur Geschichte der jüdischen Arbeiterbewegung ‘Bund' in der Bukowina" in *Geschichte der Juden in der Bukowina*, ed. Gold, 129-144. Kissman's daughter, Ruth, was close friends with Edith Silbermann, who in her memoirs described in detail the left-leaning activities of their youth circles, which included Paul Antschel (later Celan). See Edith Silbermann, *Czernowitz – Stadt der Dichter. Geschichte einer jüdischen Familie aus der Bukowina (1900-1948)*, ed. Amy-Diana Colin (Paderborn: Wilhelm Fink, 2015), 93-98.
 
-[^30]: Nevertheless, there was sometimes friction. Beyle Schaechter Gotteman (1920-2013), the first Yiddish poet to receive a National Heritage Fellowship in 2005, grew up speaking Yiddish in Czernowitz. She noted: "We were a little different, in that we were trying to preserve our culture. We were speaking Yiddish in a town which was very assimilated or striving to be assimilated. And my father was what you call a Yiddishist, or a militant Yiddishist. He was having fights with everyone. Why do you teach your children Yiddish? And why do you give them Yiddish names? I always had this argument. And my father was very much convinced of the right-- that he was right. And he was very sincere and very dedicated, very honest." Beyle S., HVT 0181 (1982); Fortunoff Video Archive for Holocaust Testimonies; Yale University, New Haven, CT. In contrast, Yiddish poet Josef Burg (1912-2009), who remained in Czernowitz throughout his life, commented "But Yiddish was not frowned upon. Also the wealthy, who would otherwise prefer to speak German, attended Yiddish performances and events. […] Intellectuals and artists were especially interested in Yiddish." Josef Burg, "Ich freue mich, daß ich ein jiddischer Schriftsteller bin," in *"Czernowitz is gewen an alte, jidische Schtot…": Jüdische Überlebende berichten* (Berlin: Heinrich-Böll Stiftung, 1999), 17. 
+[^30]: Nevertheless, there was sometimes friction. Beyle Schaechter Gotteman (1920-2013), the first Yiddish poet to receive a National Heritage Fellowship in 2005, grew up speaking Yiddish in Czernowitz. She noted: "We were a little different, in that we were trying to preserve our culture. We were speaking Yiddish in a town which was very assimilated or striving to be assimilated. And my father was what you call a Yiddishist, or a militant Yiddishist. He was having fights with everyone. Why do you teach your children Yiddish? And why do you give them Yiddish names? I always had this argument. And my father was very much convinced of the right-- that he was right. And he was very sincere and very dedicated, very honest." Beyle S., HVT-0181 (1982); Fortunoff Video Archive for Holocaust Testimonies; Yale University, New Haven, CT. In contrast, Yiddish poet Josef Burg (1912-2009), who remained in Czernowitz throughout his life, commented "But Yiddish was not frowned upon. Also the wealthy, who would otherwise prefer to speak German, attended Yiddish performances and events. […] Intellectuals and artists were especially interested in Yiddish." Josef Burg, "Ich freue mich, daß ich ein jiddischer Schriftsteller bin," in *"Czernowitz is gewen an alte, jidische Schtot…": Jüdische Überlebende berichten* (Berlin: Heinrich-Böll Stiftung, 1999), 17. 
 
 ## School Life and Education
 
@@ -129,7 +129,7 @@ Czernowitz had a range of public, private, and semi-private schools. In his rema
 ## Soviets for a Year 
 
 > For many in our area […] the sight of the Soviet tanks approaching our town symbolized […] an invincible force projecting a great deal of security. 
-- Yosef Govrin[^35]
+-Yosef Govrin[^35]
 
 [^35]: Yosef Govrin, In the Shadow of Destruction. Recollections of Transnistria and Illegal Immigration to Eretz Israel, 1941-1947 (London: Vallentine Mitchell, 2007), 13.
 
@@ -145,14 +145,14 @@ Most Jews initially experienced the Soviet arrival as a reprieve after the raw a
 
 [^38]: Kittner, *Erinnerungen*, 47.  Siegfried Benzer: "After all, according to the imagination of the people, the Soviet system was the only possible solution to antisemitism." Siegfried Benzer in *Zwischen Pruth und Jordan*, 30.
 
-[^39]: Norbert N., HVT 536; Fortunoff Archive.
+[^39]: Norbert N., HVT-536; Fortunoff Archive.
 
 ## Deportations to Siberia
 
 > My father was deported. I experienced the Holocaust before-- a year before it started. Because my father was deported, and he was the best-- this was the greatest shock of my life. He was deported to Siberia, and he never came back.
 -Beyle Schaechter-Gottesman[^40]
 
-[^40]: Beyle S.; HVT 0181 (1982); Fortunoff Video Archive for Holocaust Testimonies.
+[^40]: Beyle S.; HVT-0181 (1982); Fortunoff Video Archive for Holocaust Testimonies.
  
 > [00:11:09.65] NORBERT N: […] Here they told us you are equal, but equal to what, we didn't know. And here came the-- you did a mistake, you talked to somebody, and you ended up in jail, you ended up questioned, you ended up deported.
 
@@ -191,7 +191,7 @@ Edith Horowitz, who had in general done well under the communist regime, also de
 
 [^50]: On the decision to remain, see Silbermann, *Czernowitz*, 140; on Chomed, see ibid., 351.
 
-[^51]: Beyle S.; HVT 0181 (1982); Fortunoff Archive. They narrowly escaped death many times on their journey back, but eventually made it to Czernowitz where Beyle survived the war.
+[^51]: Beyle S.; HVT-0181 (1982); Fortunoff Archive. They narrowly escaped death many times on their journey back, but eventually made it to Czernowitz where Beyle survived the war.
 
 The sense of foreboding was to prove all too accurate.  In the first week of July numerous pogroms took place in the villages and small towns of northern Bukovina. Perpetrators of brutal killings, including those of women and children, included the Romanian and German army, as well as Ukrainian and Romanian peasants.[^52] In Czernowitz thousands were killed, including the head rabbi, Dr. Abraham Mark, and the cantor of the landmark central temple.[^53] In quick succession the Jews were forced to wear a yellow star and restrictions on movement were put in place. Young men were conscripted to repair the buildings and structures destroyed by the retreating Red Army.[^54] Still, as Nadler notes, "we had what to eat, we had where to sleep." In the successive deprivation of rights, the final blow of removal from one's home had not yet struck.
 
@@ -204,7 +204,7 @@ The sense of foreboding was to prove all too accurate.  In the first week of Jul
 ## Ghetto and Deportation
 
 > The ghetto had already been blocked off with barriers when it came to my mother how important our sewing machine would be. Foolhardy as she sometimes was, she bribed a gendarme, and with a peasant's cart that was standing on the other side of the barricade, she went and got the sewing machine, set it up in the courtyard and began to sew backpacks from pieces of thick-woven sheets for everyone in the family. […] It was rumored that the ghetto was only meant to be a collecting point, from where we would be deported to the other side of the Dniester River.
-- Edith Silbermann[^55]
+-Edith Silbermann[^55]
 
 [^55]: Silbermann, *Czernowitz*, 143.
 
@@ -240,7 +240,7 @@ However, the squalor that promptly arose was not to last long. Deportations bega
 
 [^64]: Transports began on October 13th, 1941. Coldewey, *Zwischen*, 42.
 
-[^65]: Beyle S., HVT 0181 (1982), Fortunoff Archive.
+[^65]: Beyle S., HVT-0181 (1982), Fortunoff Archive.
 
 Paula Israeli stated that Romanian soldiers insinuated a particularly incredible fallacy – that those who left first would receive their own houses and be able to leave for America.[^66] But tales of such shameless improbability were not necessary; ghetto conditions were wretched, the east was unknown and worse circumstances were, for many, unfathomable, at that time.[^67] Nadler stated: 
 
@@ -273,7 +273,7 @@ Those who managed to avoid the initial transports by moving, hiding, or other ma
 ## Ataki, Gateway to Moghilev
 
 > In the first night in Ataki I saw what human misery means. I saw people who no longer had a human face. […] In the night I saw how a person goes mad. The struggles of the brain to save its own mechanism, the spasms of the mind. In the night the pharmacist Garai went mad. […] The poor man could not become accustomed to the thoughts that he will no longer have a house, that he will never again be a pharmacist, and that he, who had always been a dignified citizen, was thrown out and expelled, in the filth, with all the Jews.
-- Miriam Korber[^75]
+-Miriam Korber[^75]
 
 [^75]: Mirjam Korber, *Deportiert. Jüdische Überlebensschicksale aus Rumänien 1941-1944. Ein Tagebuch* (Konstanz: Hartung-Gorre Verlag, 1993), 55-56.
 
@@ -291,7 +291,7 @@ Whether they remained in Ataki for days or continued immediately, crossing the r
 
 > Early in the morning we were driven to the [river] port. As we got to the Nester [Dniester] three hundred Storozynetzer people were thrown [into the water] before us. I noticed this and began to scream, "I want to live still." Suddenly an order came that the rest of us should be transported over to Ukraine. Meanwhile we were left to stand in the mud. It was raining, it was cold, it was not possible to even pull a foot out of the ground. We stood this way until the evening. During the night we were loaded onto the barge like pieces of cattle. Many fell off and drowned, and so we arrived in the port city of Ukraine, Mogilev.[^79]
 
-[^78]: The earliest deportees report crossing via a bridge, which was destroyed at some point in time. Most recall traumatic crossing on ferries or barges. The bridge was rebuilt by Jewish forced laborers during the war. One laborer reported that following completion near the end of 1942, the bridge was destroyed once more by large chunks of ice in the river; he called this "providence," since it meant that workers were required yet again. Earnest E., HVT 1499, Fortunoff Video Archive.
+[^78]: The earliest deportees report crossing via a bridge, which was destroyed at some point in time. Most recall traumatic crossing on ferries or barges. The bridge was rebuilt by Jewish forced laborers during the war. One laborer reported that following completion near the end of 1942, the bridge was destroyed once more by large chunks of ice in the river; he called this "providence," since it meant that workers were required yet again. Ernest E., HVT-1499, Fortunoff Video Archive.
 
 [^79]: Chana Koffler, "Leaving Home," 1949. Translated by Julie Dawson. Personal collection of Howard Wiesenfeld.
 
@@ -302,7 +302,7 @@ Miriam Korber was more fortunate and crossed without incident. After having reac
 ## Moghilev-Podolsky: Transnistrian Transit Point 
 
 > In Moghilev we met an old acquaintance, who took us in. The other people who had been deported with us and were unable to find a room, had to continue on, but we could stay in Moghilev and that is why we survived.
-- Felicia Gininger[^81]
+-Felicia Gininger[^81]
 
 [^81]: Felicia Gininger, „Goethe kann man nicht verbrennen, sagte Mama‘" in *"Czernowitz is gewen an alte, jidische Schtot…": Jüdische Überlebende berichten*, Gaby Coldewey et al., eds., (Berlin: Heinrich-Böll Stiftung, 1999), 26.
 
@@ -328,22 +328,22 @@ Moghilev had seen battle and part of the city was destroyed. There had also been
 
 [^88]: Coldewey et al.,*"Czernowitz is gewen an alte, jidische Schtot"*, 61.
 
-[^89]: Edgar H., HVT 3726, Fortunoff Video Archive. 
+[^89]: Edgar H., HVT-3726, Fortunoff Video Archive. 
 
 [^90]: Coldewey et al.,*"Czernowitz is gewen an alte, jidische Schtot"*, 25. 
 
-[^91]: Ernest E., HVT 1499, Fortunoff Video Archive. 
+[^91]: Ernest E., HVT-1499, Fortunoff Video Archive. 
 
 [^92]: Coldewey et al., *Zwischen*, 59.
 
 Similar to the experience of deportations from Czernowitz, many of the deportees were – at first – unsure whether it was better to try to remain in the town or to continue eastwards. Several survivors describe leaving Moghilev deliberately, while others did all they could to evade further deportation. Over the course of the war, if those deported farther east managed to escape, they frequently attempted to return to Moghilev, seeking what many hoped would be a degree of anonymity – and perhaps security – in a larger population.[^93] Nadler's family determined to stay and quickly recognized the priorities for survival: shelter and employment, which should, in turn, ensure food.
 
-[^93]: Miriam Korber records that, remarkably, her family paid Germans to transport them on trucks farther east, see Korber, *Deportiert*, 58-59. In contrast, Yosef Govrin describes simply stepping out of the convoy line, together with his mother and aunts, and slipping into a nearby carpentry shop, in order to remain. Govrin, *In the Shadow of Destruction*, 40. See also Coldewey et al., Zwischen, 57-58. One woman, a girl at the time, escaped from multiple Transnistrian death camps further east and returned each time to Moghilev. Initially she went to her aunt, then to a Ukrainian woman outside the ghetto who cared for her. Leah K., HVT 4166; Fortunoff Video Archive.
+[^93]: Miriam Korber records that, remarkably, her family paid Germans to transport them on trucks farther east, see Korber, *Deportiert*, 58-59. In contrast, Yosef Govrin describes simply stepping out of the convoy line, together with his mother and aunts, and slipping into a nearby carpentry shop, in order to remain. Govrin, *In the Shadow of Destruction*, 40. See also Coldewey et al., Zwischen, 57-58. One woman, a girl at the time, escaped from multiple Transnistrian death camps further east and returned each time to Moghilev. Initially she went to her aunt, then to a Ukrainian woman outside the ghetto who cared for her. Leah K., HVT-4166; Fortunoff Video Archive.
 
 ## Work and Social Status
 
 > I thought with the time, I could give lessons for which I could get a few potatoes or a few Marks and maybe even a little room.
-- Lydia Harnik[^94]
+-Lydia Harnik[^94]
 
 [^94]: Lydia Harnik, „Man liebte weiterhin Österreich," in *"Czernowitz is gewen an alte, jidische Schtot…,"* 41.
 
@@ -359,7 +359,7 @@ Nadler's brother-in-law probably worked at what is known as Jägendorf's Foundry
 
 Jägendorf was not viewed positively by everyone and remains a controversial figure, some seeing in him a dandy who worked to save first and foremost those closest to him and ensure himself material comforts, while others see a man working to save as many as possible under harrowing conditions.[^98] Undisputed is that many lives were saved as a result of the foundry's operation. Nevertheless, even if one assumes a generous multiplication factor – i.e., that the foundry saved between four to five times above the number of 600 official workers, this amounts to between 2,000-3,000 lives. In a ghetto of around 15,000 people, this is a significant fraction of the population, yet hardly a majority. Moreover, those employed were more likely to be educated, technically trained, or with personal connections to the well-off leadership, that is, they were already of the privileged class. What of the less fortunate? Indeed, as Nadler's and other testimonies reveal, there was stark social stratification within the ghetto. Nadler elaborated on this point, "Because the Jews have just right [a]way been divided. The Jews from the occupied territory, from-- from Moghilev, they were the worst. The Jews from Bessarabia, they were the second worst. And we, from the Bukovina, which came in, we were considered a little bit better."
 
-[^98]: For details on the effort and reflections on Jagendorf's difficult position, see his memoirs with commentary, Siegfried Jagendorf, *Jagendorf's Foundry: A Memoir of the Romanian Holocaust, 1941-1944*, ed. by Aron Hirt-Manheimer (New York: Harper Collins Publisher, 1991). See also the collection at Yad Vashem: Archive of Siegfried Jaegendorf, Yad Vashem Archive, item id. 4019674. The author Edgar Hilsenrath, who later wrote a more than 600-page tome, *Nacht*, about life for the most impoverished in the Moghilev ghetto, also found work in Jägendorf's foundry, see Edgar H., HVT 3726. Hilsenrath's name also appears on the lists in Yad Vashem. Edgar Hilsenrath, *Nacht*, Zurich Kinder Verlag 1964.
+[^98]: For details on the effort and reflections on Jagendorf's difficult position, see his memoirs with commentary, Siegfried Jagendorf, *Jagendorf's Foundry: A Memoir of the Romanian Holocaust, 1941-1944*, ed. by Aron Hirt-Manheimer (New York: Harper Collins Publisher, 1991). See also the collection at Yad Vashem: Archive of Siegfried Jaegendorf, Yad Vashem Archive, item id. 4019674. The author Edgar Hilsenrath, who later wrote a more than 600-page tome, *Nacht*, about life for the most impoverished in the Moghilev ghetto, also found work in Jägendorf's foundry, see Edgar H., HVT-3726. Hilsenrath's name also appears on the lists in Yad Vashem. Edgar Hilsenrath, *Nacht*, Zurich Kinder Verlag 1964.
 
 In an article on ghetto leadership, Gali Mir-Tibon discusses this hierarchy at length.[^99] The divisions fell primarily along the lines of national borders. Thus, those Jews who were living in the Soviet Union at the time of the Romanian occupation (i.e. those from Moghilev) were at the bottom, above these were those from Bessarabia and northern Bukovina, who had lived for one year under the Soviet regime, and at the top were the Jews from southern Bukovina and Dorohoi, who had remained residents of the Romanian state. Those who had had greater affiliation with the Soviets were suspected by the authorities of espionage, while those from southern Bukovina and Dorohoi were considered the "most" Romanian. Socioeconomic status – which both resulted from and mirrored these shifting national boundaries – also played a role. Those who had never experienced life under communism arrived better off financially. With both valuables and hard cash, they were in a position to offer attractive bribes. Those from Moghilev, who had survived battle, occupation, and Einsatztruppen, had nothing left with which to barter. Most likely they possessed little to entice the occupying Romanians in the first place, having been part of the Soviet State already for twenty years.[^100] Those from Bessarabia and northern Bukovina also arrived with few possessions, having already been dispossessed and made frail through marches by foot over the summer and early fall.[^101] Czernowitzers, in contrast, though from northern Bukovina, generally arrived by train and with certain possessions intact. A significant portion was, moreover, of the educated middle class, and brought with them small valuables such as jewelry.
 
@@ -374,9 +374,9 @@ The original Jewish residents of Moghilev did, however, have one point in their 
 ## Disease and Starvation 
 
 > I came to Moghilev and will not forget the scenes of the people who were killed. They were sitting in front of their houses, mothers holding children, sitting, and they were all dead. Death became part of my life.
-- Leah K.[^102]
+-Leah K.[^102]
 
-[^102]: Leah K., HVT 4166.
+[^102]: Leah K., HVT-4166.
 
 > [00:09:28.26] Now the first winter you got the typhus. […] And I would say between the hunger and the typhus, probably half of the population was exterminated. You were going out in the morning. It was cold. It was bitter cold. We didn't have anything to heat. We were seeing dead people on the street, in sitting position, in lying position, in closed position. And people were going, taking them out on the-- getting them to the cemeteries. They couldn't even dig graves at that time, so they just covered them up with snow.
 
@@ -399,7 +399,7 @@ Typhus is spread by lice and thus outbreaks occur under squalid living condition
 ## Raids and the Privilege of Connections 
 
 > I remembered that in Czernowitz a man worked, whom we named "Hitzel," and he patrolled the streets with his cart to catch dogs. It was exactly like this now, in the streets of the Moghilev ghetto.
-- Emil Wenkert[^107]
+-Emil Wenkert[^107]
 
 [^107]: Emil Wenkert, *Czernowitzer Schicksale. Vom Ghetto nach Transnistrien deportiert. Jüdische Schicksale 1941-1944*, Erhard Roy Wiehn ed., (Konstanz: Hartung-Gorre Verlag, 2001) 24.
 
@@ -426,10 +426,10 @@ Survival was guaranteed for none, but as Nadler indicated in the reference to hi
 The narratives accessible to us today are, by nature, almost exclusively those of the relatively privileged, who inhabited rungs higher up the hierarchical ladder. Those who survived did so primarily because through some means they were able to procure work, food, and shelter. In his interview, author Edgar Hilsenrath states explicitly that his experience was privileged,[113] while Nadler acknowledged as much in the following exchange: 
 
 > DAVID TERMAN: Why do you think you survived and the others did not? 
-
+>
 > NORBERT N: Because we were working. We were working. And not only we were working, we were working in the right places. 
 
-[^113]: Edgar H., HVT 3726.
+[^113]: Edgar H., HVT-3726.
 
 In linking their survival to their employment, both men nod to the elevated position of workers in the ghetto hierarchy. Securing work was vital, but hardly possible for all. Published studies about or by former leaders of the ghetto describe the leadership committee as arranging for work for thousands of deportees, but Nadler's account suggests a more nuanced reality, in which great responsibility lay on the individual to procure work. Hilsenrath's novel, *Night*, which describes in harrowing detail the life and death of those clinging to the lowest rungs of the ghetto, is entirely void of leadership figures: the impoverished characters seek work, housing, and sustenance on their own; despite herculean efforts, they often fail.[^114]
 
@@ -439,7 +439,7 @@ An interview with one woman, an orphan, and thus representative of one of the fe
 
 > "The minute they heard me speak to them [in Romanian], they kidnapped me. They pulled me into the ghetto and they put me on a death train to Pechora. They let out someone else. And I remember that the other person gave this Kapo a package of cigarettes. This is what my life was worth."[^115]
 
-[^115]: Leah K., HVT 4166; Fortunoff Video Archive.
+[^115]: Leah K., HVT-4166; Fortunoff Video Archive.
 
 As the example above demonstrates, while the relative security afforded by regular employment and personal connections was an unheard-of luxury for the majority of those in the ghetto, family too, was an irreplaceable force. Nadler also survived because he was with family who protected each other and provided for one another. In a world where morality stood on end, family members represented the last and final bastion of protection. In a statement exemplifying the tight web of work, sustenance, and familial support, Nadler explains: 
 
@@ -451,7 +451,7 @@ Moghilev was liberated by the Soviets in March 1944 and the family was scattered
 
 [^116]: For example, Kittner, *Erinnerungen*, 99-100 and Wenkert, *Schicksale*, 29-30.
 
-[^117]: See for example, Elsie B; HVT 1228; Fortunoff Archive. The interviewee discussed the months after liberation in far greater detail than the period in Transnistria. This could be due to trauma. In her memoir Chana Koffler also dedicates significant space to the period following liberation (1944) and prior to emigration to Romania (1945 or 1946), "Leaving Home," 1949. Translated by Julie Dawson. Personal collection of Howard Wiesenfeld.
+[^117]: See for example, Elsie B; HVT-1228; Fortunoff Archive. The interviewee discussed the months after liberation in far greater detail than the period in Transnistria. This could be due to trauma. In her memoir Chana Koffler also dedicates significant space to the period following liberation (1944) and prior to emigration to Romania (1945 or 1946), "Leaving Home," 1949. Translated by Julie Dawson. Personal collection of Howard Wiesenfeld.
 
 Nadler and his family joined this wave. He spent the next years in Iași, studying medicine, then received a medical position in Câmpulung Moldovenesc, his father's hometown. He met his wife, Judith Pitsch, a fellow Czernowitzer, during a trip to the southern Transylvanian fortress town of Brașov.[^118] They married in 1954 and lived in Câmpulung until 1960, when, after years of petitions, they received an exit visa and made Aliyah to Israel.[^119] Nadler went on to work in medicine in Israel and the United States. Judith would become the director of the University of Chicago library, building a Judaica collection rich in material on Bukovina.
 
