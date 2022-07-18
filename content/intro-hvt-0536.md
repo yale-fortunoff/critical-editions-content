@@ -2,7 +2,7 @@
 slug: hvt-0536
 smallVideoPath: https://d12q9fe14kxf9b.cloudfront.net/0536/background-loop-640.mp4
 videoPath: https://d12q9fe14kxf9b.cloudfront.net/0536/background-loop-1280-2.mp4
-posterPath: https://d12q9fe14kxf9b.cloudfront.net/0574/poster.jpg
+posterPath: https://d12q9fe14kxf9b.cloudfront.net/0536/poster.jpg
 aviaryLink: https://fortunoff.aviaryplatform.com/collections/5/collection_resources/606/transcript?u=t&keywords[]=mssa.hvt.0536
 supertitle: Introduction to the testimony of
 title: Norbery Nadler
