@@ -5,7 +5,7 @@ videoPath: https://d12q9fe14kxf9b.cloudfront.net/0536/background-loop-1280-2.mp4
 posterPath: https://d12q9fe14kxf9b.cloudfront.net/0536/poster.jpg
 aviaryLink: https://fortunoff.aviaryplatform.com/collections/5/collection_resources/606/transcript?u=t&keywords[]=mssa.hvt.0536
 supertitle: Introduction to the testimony of
-title: Norbery Nadler
+title: Norbert Nadler
 hvtID: '0536'
 author: Julie Dawson
 affiliation: Institute for Contemporary History, University of Vienna
