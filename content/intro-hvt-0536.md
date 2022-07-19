@@ -10,11 +10,11 @@ hvtID: '0536'
 author: Julie Dawson
 affiliation: Institute for Contemporary History, University of Vienna
 essayPath: "/data/intro-hvt-0536.json"
-publicationDate: July 15, 2022
+publicationDate: August 2022
 ```
 
 > The most immediate impact of atrocity is on the cosmos of each individual self; and it is that impact we need to grasp first if we are to understand something of the nature of such events and their consequences.  
-\-Eva Hoffman [^1]
+-Eva Hoffman [^1]
 
 [^1]: Eva Hoffman, *After Such Knowledge: Memory, History and the Legacy of the Holocaust* (New York: Public Affairs, 2004), 163.
 
@@ -60,7 +60,17 @@ Due to my underlying quest to apprehend Lebzelter's experience, I sought a testi
 
 [^13]: Hirsch and Spitzer, *Ghosts*, xiii.
 
-> [00:01:02.14] NORBERT N: OK. My name is Norbert Nadler. I'm born August 18, 1922 in Czernowitz. This is in, uh, north-- northeastern part of Romania. It's a place-- when my mother was born, it was Austria-Hungary. When I was born, it was Romania. Right now, it's Russia.[^14]
+> [00:01:02.14] NORBERT N: OK. My name is Norbert Nadler. I'm born August 18, 1922 in Czernowitz. This is in, uh, north-- northeastern part of Romania. It's a place-- when my mother was born, it was Austria-Hungary. When I was born, it was Romania. Right now, it's Russia.[^v1][^14]
+
+[^v1]: Norbert N. Holocaust testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v1
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 62
+end_time: 87
+```
 
 [^14]: The interview took place in 1984 when the region was part of the Soviet Union; today it is in Ukraine.
 
@@ -89,11 +99,21 @@ Bukovina was annexed by the Habsburg Empire from the Ottomans in 1775 and boaste
 
 [^22]: Silbermann, *Czernowitz*, 96. Edith Silbermann née Horowitz made this comment after describing her own involvement in the illegal communist youth organization.
 
-> [00:01:43.43] NORBERT N: My late father was a tailor.[^23] We were, as a family, I wouldn't say poor, but really modest background. He was a communist socialist. And so was my late grandfather from [the] other side, who was a kind of leader of the Socialist movement of the Jewish people in this town.[^24] We were a close family.
+> [00:01:43.43] NORBERT N: My late father was a tailor.[^23] We were, as a family, I wouldn't say poor, but really modest background. He was a communist socialist. And so was my late grandfather from [the] other side, who was a kind of leader of the Socialist movement of the Jewish people in this town.[^24] We were a close family.[^v2]
 
 [^23]: Nadler's father, Baruch Itzik Nadler, was born in the southern Bukovina town of Câmpulung Moldovenesc on November 24th, 1889. His mother, Amalia/Amelie (both spellings used in documents) Nadler, née Freiberg, was born in Czernowitz on January 22nd, 1897. Personal communication on July 17, 2021 with Nadler's wife, Judith Nadler. 
 
 [^24]: According to Czernowitz birth records, Amalie Freiberg (Nadler's mother) was born in 1897 to Süssie Freiberg, a wallpaper hanger (*Tapezierer*), who lived in Synagogengasse either 16 or 68. This is in the heart of the "old" Jewish quarter, where the old cemetery, the hospital, synagogue street, and Judengasse were located.
+
+[^v2]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v2
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 104
+end_time: 135
+```
 
 Indicative of the vibrant and overlapping social and political spheres in the town, Nadler mentions in close succession both his education in Communist ideology via his father's tailor shop and the fact that his mother was a secretary to one of the most prominent Zionists in the city.[^25] While Zionism had a strong following in Czernowitz (perhaps more cemented in collective memory due to post-war diaspora publications), like all central and eastern European cities with significant Jewish populations, Czernowitz (and Bukovina) youth participated in the breadth of Jewish social-political movements, from far left Communism to rightwing Zionism.[^26] Notably, besides his mother's pride in working for a prominent (Zionist) community leader, Nadler does not otherwise mention involvement in Zionist activities. Many of the youth saw the traditional Zionist movement as an inadequate form with which to confront contemporary issues. According to one biographer, poet Paul Celan explicitly rejected the "petite bourgeois Zionism of his [father]" and was instead active in the non-Zionist leftwing antifascist movement.[^27] Similarly, Prive Friedjung recalled the left-wing political atmosphere amongst craftsmen such as those in Nadler's shop and linked this specifically to Yiddish: "For me, Czernowitz means the symbiosis of Yiddishism and revolutionary thinking."[^28] Today, probably due to Celan's lasting influence, the German-language legacy overshadows the Yiddish character of a city which brought forth or was home to such famous poets as Itzik Manger and Eliezer Schtaynbarg and was the site of the first Yiddish language conference in 1908,[^29] but in the interwar period, Czernowitz maintained manifold identity markers – cherished at once by Yiddish and German speakers, Communists and Zionists alike.[^30]
 
@@ -116,7 +136,17 @@ Indicative of the vibrant and overlapping social and political spheres in the to
 
 [^31]: Mella Horowitz in *Zwischen Pruth und Jordan: Lebenserinnerungen Czernoitzer Juden*, Coldewey et al. eds. (Köln: Böhlau Verlag, 2003), 3.
 
-> [00:02:17.92] And I went to grammar school in Czernowitz. I went to high school in Czernowitz. And then-- this was under Romania. It was not really a bad life. Also, we knew as Jews we have our limitations. We knew there were days we shouldn't go certain places, because you could be-- you could have been beaten up. You knew that some schools have been closed to you. And therefore, the Jewish community in these places was pretty much independent. We had our own kindergarten. We had our own schools. We had our own high schools.
+> [00:02:17.92] And I went to grammar school in Czernowitz. I went to high school in Czernowitz. And then-- this was under Romania. It was not really a bad life. Also, we knew as Jews we have our limitations. We knew there were days we shouldn't go certain places, because you could be-- you could have been beaten up. You knew that some schools have been closed to you. And therefore, the Jewish community in these places was pretty much independent. We had our own kindergarten. We had our own schools. We had our own high schools. [^v3]
+
+[^v3]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v3
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 137
+end_time: 181
+```
 
 Czernowitz had a range of public, private, and semi-private schools. In his remark on "our schools" Nadler was probably referring to private Jewish learning institutions but may also have meant state institutions whose student body was primarily Jewish.[^32] Many memoirists have positive memories of their school experience, despite a pervasive awareness of precarious status. During the interwar period the educational system was a fraught space, with Romanian nationalists striving to wrench the inherited Austrian system into a nationalist framework.[^33] Nevertheless, for the attendees, many of the institutions, both public or private, may have felt "Jewish," either by way of the educators or the student body make-up. Edith Silbermann (1921-2008), who also described her schooling experience as overall a positive experience, attended a semi-public school, the Hoffmann Gymnasium, at which only three girls were non-Jews.[^34] The inherent hostility and systematic discrimination of the Romanian school system may have been impossible to overlook, yet as Nadler asserted, the Jewish population understood the framework in which it was to function: "it was not really a bad life." This was to change abruptly in 1940.
 
@@ -133,7 +163,17 @@ Czernowitz had a range of public, private, and semi-private schools. In his rema
 
 [^35]: Yosef Govrin, In the Shadow of Destruction. Recollections of Transnistria and Illegal Immigration to Eretz Israel, 1941-1947 (London: Vallentine Mitchell, 2007), 13.
 
-> [00:08:09.80] So when the Russian[s] came over, I was full of joy. Finally, we are going to be equal citizens. And we are going to have all the rights and so on. Didn't take me too long to realize what we went into. You don't know the communists unless you live under them, under their rule.  
+> [00:08:09.80] So when the Russian[s] came over, I was full of joy. Finally, we are going to be equal citizens. And we are going to have all the rights and so on. Didn't take me too long to realize what we went into. You don't know the communists unless you live under them, under their rule.[^v4]
+
+[^v4]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v4
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 489
+end_time: 508
+```  
 
 On June 27th, 1940, northern Bukovina became part of the U.S.S.R. In 1940 in the wake of the Molotov-Ribbentrop pact, Romania was forced to cede Bessarabia and northern Bukovina to the Soviet Union.[^36] The particularity of the short period of Soviet rule, often called the "first Russian Year," for the Czernowitz Jewish experience is sometimes glossed over in light of what followed. In fact, 1940 was a pivotal year for the population and radically traumatic for many. Nadler's testimony captures the range of sentiments, relief giving way to confusion and dismay and eventually, disillusion.[^37]
 
@@ -150,11 +190,29 @@ Most Jews initially experienced the Soviet arrival as a reprieve after the raw a
 ## Deportations to Siberia
 
 > My father was deported. I experienced the Holocaust before-- a year before it started. Because my father was deported, and he was the best-- this was the greatest shock of my life. He was deported to Siberia, and he never came back.
--Beyle Schaechter-Gottesman[^40]
+-Beyle Schaechter-Gottesman[^40] 
 
 [^40]: Beyle S.; HVT-0181 (1982); Fortunoff Video Archive for Holocaust Testimonies.
+
+```yaml:embed:aviary:fortunoff
+footnote: 40
+ead_id: mssa.hvt.0181
+tape: 1
+start_time: 574
+end_time: 592
+```
  
-> [00:11:09.65] NORBERT N: […] Here they told us you are equal, but equal to what, we didn't know. And here came the-- you did a mistake, you talked to somebody, and you ended up in jail, you ended up questioned, you ended up deported.
+> [00:11:09.65] NORBERT N: […] Here they told us you are equal, but equal to what, we didn't know. And here came the-- you did a mistake, you talked to somebody, and you ended up in jail, you ended up questioned, you ended up deported.[^v5]
+
+[^v5]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v5
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 680
+end_time: 695
+```
 
 Most of the deportations to Siberia occurred in June 1941, shortly before the Russians withdrew again. Some took place, however, shortly after the occupation, in the summer of 1940.[^41] Yiddish Poet Beyle Schaechter-Gottesman described a tortuous process during which her father was arrested, tried, released, tried again, and eventually deported.[^42] This incident marked profoundly her perception of the war period; later persecutions and close encounters with death under the Romanians were experienced, in her retelling, as less traumatic than the loss of her father to the Soviet Gulag. Her statement, quoted above, bears witness to the common conflation of the experiences under Soviet and Fascist German or Romanian rule into one period of unprecedented affliction, during which self-evident social norms, especially a just judicial system, collapsed.
 
@@ -181,7 +239,17 @@ Following sporadic deportations in the wake of the Soviet occupation, the pace s
 
 [^48]: Kittner, *Erinnerungen*, 55.
 
-> [00:12:15.42] NORBERT N: So this lasted for a year. And then the-- and then the German[s] invaded Russia. And a few days after the war broke out, Czernowitz was taken by the Romanians. Now it's not-- no denial of this here. That when the Russian came in, the Jewish population was jubilant in Romania. Now the Romanians, the Germans, start taking revenge on us. 
+> [00:12:15.42] NORBERT N: So this lasted for a year. And then the-- and then the German[s] invaded Russia. And a few days after the war broke out, Czernowitz was taken by the Romanians. Now it's not-- no denial of this here. That when the Russian came in, the Jewish population was jubilant in Romania. Now the Romanians, the Germans, start taking revenge on us. [^v6]
+
+[^v6]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v6
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 735 
+end_time: 761
+```
 
 On June 22nd 1941 Germany attacked the Soviet Union in Operation Barbarossa. The Soviet personnel, whether military or civilian, hastily packed up and fled the city. Russians who had been brought in to teach at the university or work in the administration left, as well as many students and others who were particularly supportive of or involved in the communist regime. Great uncertainty reigned as families and friends tried to gauge the wisest move. Fichman recorded the tension and uncertainty stretching over days: "[In] that last week of June 1941 people were petrified at the imminent arrival of the German troops." She goes on to explain that though many of her friends and acquaintances departed, she realized she could not leave her mother and father behind.[^49]
 
@@ -208,7 +276,17 @@ The sense of foreboding was to prove all too accurate.  In the first week of Jul
 
 [^55]: Silbermann, *Czernowitz*, 143.
 
-> [00:14:41.37] NORBERT N: […] [W]ithout any official announcement, nothing in the papers, nothing on the radio, you find small notices on the doors. You have to know that in Czernowitz there were streets where Jews was living and streets where non-Jews were living. And in a place where we were living, we were just on the border.[^56] And [we] find a notice, said tomorrow by 11:00 in the morning, you have to be in the ghetto. We didn't even know where the ghetto was located. It was by the word of mouth where we are to go.
+> [00:14:41.37] NORBERT N: […] [W]ithout any official announcement, nothing in the papers, nothing on the radio, you find small notices on the doors. You have to know that in Czernowitz there were streets where Jews was living and streets where non-Jews were living. And in a place where we were living, we were just on the border.[^56] And [we] find a notice, said tomorrow by 11:00 in the morning, you have to be in the ghetto. We didn't even know where the ghetto was located. It was by the word of mouth where we are to go. [^v7]
+
+[^v7]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v7
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 883
+end_time: 921
+```
 
 [^56]: Norbert Nadler and his family lived at Dreifaltigkeitsgasse 53. The ghetto area originally included the lower part of this street. Personal communication with Judith Nadler, July 17th, 2021. The ghetto's boundaries changed and shrank as people were deported. For a map of the streets as dictated on October 11th, 1941 see Hirsch and Spitzer, *Ghosts*, 125.
 
@@ -242,9 +320,27 @@ However, the squalor that promptly arose was not to last long. Deportations bega
 
 [^65]: Beyle S., HVT-0181 (1982), Fortunoff Archive.
 
+```yaml:embed:aviary:fortunoff
+footnote: 65
+ead_id: mssa.hvt.0181
+tape: 1
+start_time: 3089
+end_time: 3134
+```
+
 Paula Israeli stated that Romanian soldiers insinuated a particularly incredible fallacy – that those who left first would receive their own houses and be able to leave for America.[^66] But tales of such shameless improbability were not necessary; ghetto conditions were wretched, the east was unknown and worse circumstances were, for many, unfathomable, at that time.[^67] Nadler stated: 
 
-> [00:18:38.46] […] And certainly we couldn't-- we couldn't stand anymore, this ghetto. There was no way you can take a bath. There was very little water. You have to stay in line to go to a washroom. We were filthy. You couldn't wash your laundry, there wasn't-- so, I think whatever it's going to be, it's going to be-- it may be better than it is here.
+> [00:18:38.46] […] And certainly we couldn't-- we couldn't stand anymore, this ghetto. There was no way you can take a bath. There was very little water. You have to stay in line to go to a washroom. We were filthy. You couldn't wash your laundry, there wasn't-- so, I think whatever it's going to be, it's going to be-- it may be better than it is here.[^v8]
+
+[^v8]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v8
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 1123
+end_time: 1144
+```
 
 [^66]: Coldewey et al., *Zwischen Pruth und Jordan*, 42-43.
 
@@ -277,7 +373,17 @@ Those who managed to avoid the initial transports by moving, hiding, or other ma
 
 [^75]: Mirjam Korber, *Deportiert. Jüdische Überlebensschicksale aus Rumänien 1941-1944. Ein Tagebuch* (Konstanz: Hartung-Gorre Verlag, 1993), 55-56.
 
-> [00:21:34.42] And then, they didn't bring us-- in Ataki they didn't bring us to the railroad station. They stopped the train in the middle of a field. It was a rainy day. And who has ever been in Bessarabia know[s] what the mud in Bessarabia is. We were in mud until here [gesturing]. And here, you're supposed to get out. You get out, you get out into mud to-- to your knees.  
+> [00:21:34.42] And then, they didn't bring us-- in Ataki they didn't bring us to the railroad station. They stopped the train in the middle of a field. It was a rainy day. And who has ever been in Bessarabia know[s] what the mud in Bessarabia is. We were in mud until here [gesturing]. And here, you're supposed to get out. You get out, you get out into mud to-- to your knees.[^v9]
+
+[^v9]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v9
+ead_id: mssa.hvt.0536
+tape: 1
+start_time: 1296
+end_time: 1320
+```  
 
 Ataki was a small, unassuming Bessarabian town on the Romanian side of the Dniester, across from the larger city of Moghilev-Podolsky. Located today in the Republic of Moldova, Ataki (Otaci today) is about 150 km or 95 miles as the crow flies, due east from Czernowitz. The arrival in Ataki and transport over the Dniester River looms large in the memories of survivors. Here, at the latest, all became aware of the gravity of their situation. If overt violence had been in some way evaded thus far, it was now impossible to bypass, whether this entailed physical beatings by Romanian soldiers or soldiers and peasants stealing belongings with impunity.
 
@@ -306,7 +412,17 @@ Miriam Korber was more fortunate and crossed without incident. After having reac
 
 [^81]: Felicia Gininger, „Goethe kann man nicht verbrennen, sagte Mama‘" in *"Czernowitz is gewen an alte, jidische Schtot…": Jüdische Überlebende berichten*, Gaby Coldewey et al., eds., (Berlin: Heinrich-Böll Stiftung, 1999), 26.
 
-> [00:02:24.96] We come over there. In the meantime, it become dark and it's evening. We didn't have where to go. And we saw some ruins. So we went into this ruins. It was an old factory. I do not know what kind of factory. We found one room. And in this room there were already some fifteen people. So we went in, another ten.
+> [00:02:24.96] We come over there. In the meantime, it become dark and it's evening. We didn't have where to go. And we saw some ruins. So we went into this ruins. It was an old factory. I do not know what kind of factory. We found one room. And in this room there were already some fifteen people. So we went in, another ten.[^v10]
+
+[^v10]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v10
+ead_id: mssa.hvt.0536
+tape: 2
+start_time: 143
+end_time: 164
+```
 
 Transnistria, literally "beyond the Nister [River]," was an arbitrarily created territory between the Dniester and southern Bug rivers ceded by Nazi Germany to Romania in summer of 1941. The region had belonged to the Ukrainian Soviet Socialist Republic but had not existed as a unified territory.[^82] The region became a dumping ground of sorts for Jews deported by the Romanians from Bessarabia, Bukovina, and Dorohoi (administratively joined to Bukovina in the interwar period, though not part of historic Bukovina). Herded into hundreds of makeshift "camps," which could denote anything from abandoned (or occupied) homes, to shacks, shelters intended for animals, or empty terrains surrounded by a fence, thousands would perish from starvation, disease, and exposure. What has come to be known as the "Romanian Holocaust" or "Transnistrian Holocaust" saw the deaths of between 250,000-300,000 Jews at the hand of the Romanian state.[^83]
 
@@ -347,7 +463,17 @@ Similar to the experience of deportations from Czernowitz, many of the deportees
 
 [^94]: Lydia Harnik, „Man liebte weiterhin Österreich," in *"Czernowitz is gewen an alte, jidische Schtot…,"* 41.
 
-> [00:06:31.94] So my brother-in-law had the first idea, say, OK, I can do any work you want. So there was a tool and die factory. [He] said, yeah, I worked always in tool and die. So he went over there. Start[ed] working in tool and die, start[ed] learning. The factory was-- was managed by Jews, Jewish engineers from Romania, already which was over there. And they were trying to teach you. You get at least a meal a day. And the meal was so big that you can take a little bit home for-- to have another half meal at home. And he has the authority [authorization] to stay because he was working.  
+> [00:06:31.94] So my brother-in-law had the first idea, say, OK, I can do any work you want. So there was a tool and die factory. [He] said, yeah, I worked always in tool and die. So he went over there. Start[ed] working in tool and die, start[ed] learning. The factory was-- was managed by Jews, Jewish engineers from Romania, already which was over there. And they were trying to teach you. You get at least a meal a day. And the meal was so big that you can take a little bit home for-- to have another half meal at home. And he has the authority [authorization] to stay because he was working.[^v11]
+
+[^v11]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v11
+ead_id: mssa.hvt.0536
+tape: 2
+start_time: 390
+end_time: 430
+```  
 
 Nadler's brother-in-law probably worked at what is known as Jägendorf's Foundry (turnatoria in Romanian). Siegfried Jägendorf was an engineer originally from the southern Bukovina town of Radautz. He was a leader of the community in the ghetto with connections to the Romanian authorities.[^95] He immediately set to work convincing the authorities of the need for the foundry to be repaired and secured workers for the undertaking. Precise numbers of those saved through the foundry are hard to come by. Lists of personnel from 1943 and 1944 include around 600 workers; but because the benefits of employment in the factory, both official in the form of residence permits, and unofficial, in terms of food and implications thereof, extended to family members, the number of people who survived due to the enterprise is certainly many times higher than the number of those with permits alone.[^96] Furthermore, there is some indication that there was maneuvering room to "adopt" people onto employment permits.[^97]
 
@@ -378,7 +504,17 @@ The original Jewish residents of Moghilev did, however, have one point in their 
 
 [^102]: Leah K., HVT-4166.
 
-> [00:09:28.26] Now the first winter you got the typhus. […] And I would say between the hunger and the typhus, probably half of the population was exterminated. You were going out in the morning. It was cold. It was bitter cold. We didn't have anything to heat. We were seeing dead people on the street, in sitting position, in lying position, in closed position. And people were going, taking them out on the-- getting them to the cemeteries. They couldn't even dig graves at that time, so they just covered them up with snow.
+> [00:09:28.26] Now the first winter you got the typhus. […] And I would say between the hunger and the typhus, probably half of the population was exterminated. You were going out in the morning. It was cold. It was bitter cold. We didn't have anything to heat. We were seeing dead people on the street, in sitting position, in lying position, in closed position. And people were going, taking them out on the-- getting them to the cemeteries. They couldn't even dig graves at that time, so they just covered them up with snow.[^v12]
+
+[^v12]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v12
+ead_id: mssa.hvt.0536
+tape: 2
+start_time: 574
+end_time: 618
+```
 
 When Nadler first arrived in autumn 1941, Jews could and did live throughout the ruined city. A closed ghetto was only established in summer of 1942, when the Jewish deportees were forced to live in established and restricted areas, cordoned off with barbed wire.[^103] With the closing of the ghetto, the already straitened conditions became even more dire. Nadler recalled, "so we were standing in the ghetto and they're not letting you out, but not letting in anything in the ghetto-- no food, no clothing, nothing. So people-- it was not-- it was not an extermination camp. It was a starvation camp."
 
@@ -403,7 +539,17 @@ Typhus is spread by lice and thus outbreaks occur under squalid living condition
 
 [^107]: Emil Wenkert, *Czernowitzer Schicksale. Vom Ghetto nach Transnistrien deportiert. Jüdische Schicksale 1941-1944*, Erhard Roy Wiehn ed., (Konstanz: Hartung-Gorre Verlag, 2001) 24.
 
-> [00:12:56.78] And this Bureau of Evidence[^108] was supposed to give the lists. So they [i.e. the Romanians] weren't coming to take you out. It was the dirty work of the Jews who have to bring up the people to be transported to-- to the places. So I had this friend at the Bureau of Evidence. And he knew a day or two before when such an action is going to come. And he knew more or less which places are going to be involved. So this was the reason how we survived this fall of '42. 
+> [00:12:56.78] And this Bureau of Evidence[^108] was supposed to give the lists. So they [i.e. the Romanians] weren't coming to take you out. It was the dirty work of the Jews who have to bring up the people to be transported to-- to the places. So I had this friend at the Bureau of Evidence. And he knew a day or two before when such an action is going to come. And he knew more or less which places are going to be involved. So this was the reason how we survived this fall of '42.[^v13]
+
+[^v13]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v13
+ead_id: mssa.hvt.0536
+tape: 2
+start_time: 775
+end_time: 811
+``` 
 
 [^108]: Nadler's reference to a "bureau of evidence" is a direct translation of the Romanian, *birou de evidența*, indicating a generic registration office which kept track of place of residence and dealt with identity cards or papers.
 
@@ -427,9 +573,19 @@ The narratives accessible to us today are, by nature, almost exclusively those o
 
 > DAVID TERMAN: Why do you think you survived and the others did not? 
 >
-> NORBERT N: Because we were working. We were working. And not only we were working, we were working in the right places. 
+> NORBERT N: Because we were working. We were working. And not only we were working, we were working in the right places. [^v14]
 
 [^113]: Edgar H., HVT-3726.
+
+[^v14]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v14
+ead_id: mssa.hvt.0536
+tape: 3
+start_time: 772
+end_time: 786
+```
 
 In linking their survival to their employment, both men nod to the elevated position of workers in the ghetto hierarchy. Securing work was vital, but hardly possible for all. Published studies about or by former leaders of the ghetto describe the leadership committee as arranging for work for thousands of deportees, but Nadler's account suggests a more nuanced reality, in which great responsibility lay on the individual to procure work. Hilsenrath's novel, *Night*, which describes in harrowing detail the life and death of those clinging to the lowest rungs of the ghetto, is entirely void of leadership figures: the impoverished characters seek work, housing, and sustenance on their own; despite herculean efforts, they often fail.[^114]
 
@@ -441,9 +597,27 @@ An interview with one woman, an orphan, and thus representative of one of the fe
 
 [^115]: Leah K., HVT-4166; Fortunoff Video Archive.
 
+```yaml:embed:aviary:fortunoff
+footnote: 115
+ead_id: mssa.hvt.4166
+tape: 3
+start_time: 1667
+end_time: 1692
+```
+
 As the example above demonstrates, while the relative security afforded by regular employment and personal connections was an unheard-of luxury for the majority of those in the ghetto, family too, was an irreplaceable force. Nadler also survived because he was with family who protected each other and provided for one another. In a world where morality stood on end, family members represented the last and final bastion of protection. In a statement exemplifying the tight web of work, sustenance, and familial support, Nadler explains: 
 
-> [My father received] at least one meal a day. And this was very much. This was very much. And I remember, I didn't touch a meal at home because I ate outside. My brother-in-law didn't touch a meal at home because he-- my late father didn't touch a meal at home because he ate with the peasants. So whatever came in home was for the rest of the family.
+> [My father received] at least one meal a day. And this was very much. This was very much. And I remember, I didn't touch a meal at home because I ate outside. My brother-in-law didn't touch a meal at home because he-- my late father didn't touch a meal at home because he ate with the peasants. So whatever came in home was for the rest of the family.[^v15]
+
+[^v15]: Norbert N. Holocaust Testimony (HVT-0536). Fortunoff Video Archive for Holocaust Testimonies, Yale University Libraries.
+
+```yaml:embed:aviary:fortunoff
+footnote: v15
+ead_id: mssa.hvt.0536
+tape: 3
+start_time: 834
+end_time: 854
+```
 
 ## Liberation – and Epilogue 
 
