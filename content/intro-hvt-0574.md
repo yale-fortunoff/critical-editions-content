@@ -110,6 +110,7 @@ Hauser's testimony corroborates this history of violence while adding another vi
 type: "image"
 data:
     src: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/EasternGalicia.jpg"
+	srcset: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/EasternGalicia.jpg"
     caption: "Map of Eastern Galicia, reproduced with permission from IUP from Frank Golczewski, ‘Shades of Grey: Reflections on Jewish-Ukrainian and German-Ukrainian Relations in Galicia’, in The Shoah in Ukraine: History, Testimony, Memorialization, ed. Ray Brandon and Wendy Lower (Bloomington: Indiana University Press, 2008, p. 137." 
 ```
 
@@ -135,7 +136,7 @@ Hauser does not explicitly pose the problematic question, why didn't they resist
 ## Survivors in the West German Courtroom
 
 
-A second prominent and under-researched  theme in Hauser's testimony is the postwar experience of Holocaust survivors in German trials against Nazi perpetrators. During and after the Holocaust, Jewish lawyers and historians including Raphael Lemkin, Simon Wiesenthal, and Philip Friedman collected evidence and documentation that might be used in trials against their tormentors and killers.[^24] The Allies formally committed to punish Nazi perpetrators when Roosevelt, Churchill, and Stalin signed the Moscow Declaration of German Atrocities in October 1943, leading to the establishment  of the International Military Tribunal at Nuremberg in 1945-46, and to thousands of investigations and trials across Europe in each country's national courts. Because Hauser had repeated contact with the Jewish militia and German police officials, he witnessed their sadistic acts and endeavored to record their names and describe their backgrounds. When he settled temporarily in Munich, the center of Jewish life in the American occupation zone, he found himself among an active survivor community that was - like him - determined to avenge the murder of loved ones in the courts. Besides creating a historical record of the Holocaust and a memorial to their murdered relatives, these documentarians were eager to collect incriminating statements and materials in the pursuit of justice. This was the motivation for Hauser and his wife when they signed and submitted their affidavits in the legal department of the Office of Liberated Jews in Munich in March 1947. A similar spirit animated his Fortunoff interview decades later, when he held up the book, *Antworte, Mensch!* [Answer, Human!] by Renate Reinke (Bremen, 1968).
+A second prominent and under-researched  theme in Hauser's testimony is the postwar experience of Holocaust survivors in German trials against Nazi perpetrators. During and after the Holocaust, Jewish lawyers and historians including Raphael Lemkin, Simon Wiesenthal, and Philip Friedman collected evidence and documentation that might be used in trials against their tormentors and killers.[^24] The Allies formally committed to punish Nazi perpetrators when Roosevelt, Churchill, and Stalin signed the Moscow Declaration of German Atrocities in October 1943, leading to the establishment  of the International Military Tribunal at Nuremberg in 1945-46, and to thousands of investigations and trials across Europe in each country's national courts. Because Hauser had repeated contact with the Jewish militia and German police officials, he witnessed their sadistic acts and endeavored to record their names and describe their backgrounds. When he settled temporarily in Munich, the center of Jewish life in the American occupation zone, he found himself among an active survivor community that was - like him - determined to avenge the murder of loved ones in the courts. Besides creating a historical record of the Holocaust and a memorial to their murdered relatives, these documentarians were eager to collect incriminating statements and materials in the pursuit of justice. This was the motivation for Hauser and his wife when they signed and submitted their affidavits in the legal department of the Office of Liberated Jews in Munich in March 1947. A similar spirit animated his Fortunoff interview decades later, when he held up the book, *Antworte, Mensch!* [Answer, Human!] by Renate Reinke (Bremen, 1968).[^25]
 
 [^24]: Andrew Nagorski, *The Nazi Hunters* (New York: Simon and Schuster, 2017); Guy Walters, *Hunting Evil: The Nazi War Criminals Who Escaped and the Quest to Bring Them to Justice* (New York: Broadway Books, 2009).
 
@@ -143,7 +144,8 @@ A second prominent and under-researched  theme in Hauser's testimony is the post
 type: "image"
 data:
     src: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/HauserInsert.jpg"
-    caption: "Hauser holds the book Antworte Mensch, 00:17:24.52.[^25]" 
+	srcset: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/HauserInsert.jpg"
+    caption: "Hauser holds the book Antworte Mensch, 00:17:24.52." 
 ```
 
 [^25]: Laura Jockusch, *Collect and Record! Jewish Holocaust Documentation in early postwar Europe* (Oxford University Press, 2012), 121-161.
