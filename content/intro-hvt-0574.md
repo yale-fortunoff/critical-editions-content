@@ -110,7 +110,7 @@ Hauser's testimony corroborates this history of violence while adding another vi
 type: "image"
 data:
     src: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/EasternGalicia.jpg"
-	srcset: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/EasternGalicia.jpg"
+	srcset: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/EasternGalicia.jpg 880px"
     caption: "Map of Eastern Galicia, reproduced with permission from IUP from Frank Golczewski, ‘Shades of Grey: Reflections on Jewish-Ukrainian and German-Ukrainian Relations in Galicia’, in The Shoah in Ukraine: History, Testimony, Memorialization, ed. Ray Brandon and Wendy Lower (Bloomington: Indiana University Press, 2008, p. 137." 
 ```
 
@@ -144,7 +144,7 @@ A second prominent and under-researched  theme in Hauser's testimony is the post
 type: "image"
 data:
     src: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/HauserInsert.jpg"
-	srcset: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/HauserInsert.jpg"
+	srcset: "https://diptbm6gq3da9.cloudfront.net/media/hvt-0574/HauserInsert.jpg 1280px"
     caption: "Hauser holds the book Antworte Mensch, 00:17:24.52." 
 ```
 
