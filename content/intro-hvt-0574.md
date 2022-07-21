@@ -106,7 +106,12 @@ According to Philip Friedman, who was a survivor of the Holocaust in Galicia, as
 
 Hauser's testimony corroborates this history of violence while adding another victim group to the story. The NKVD prison in Boryslaw did not contain so-called political prisoners; it contained Polish children. On May 3rd 1941, about two months before the Germans arrived, two hundred Polish children dressed in national costumes gathered to celebrate Poland's Independence Day. They were singing anthems and polka dancing, but these types of public events promoting Polish nationalism were forbidden by the Soviets. So these youth (according to Hauser, 12-16 years old) were arrested, and brought by trucks to the prison. Rumors spread that one of the truckdrivers who brought them to the prison was a Jewish man who was laughing and "made a snide remark." According to Hauser, this incensed the population and "a cry went out all over the city of Boryslaw, the Jews have killed our children. And the Ukrainians, who were Jew haters to begin with [sic], united with the Polish parents." Jews were rounded up, forced "to crawl on their knees and kiss their [the Polish children's] dead bodies and beg forgiveness. And then they were beaten to death with lead pipes and iron pipes." Hauser recalled that a few Ukrainians rescued Jews, including the Rabbi who was pulled out of the "melee." This was the same night that Hauser lost 30 members of his family. Seen from the ground level in Boryslaw, it is clear that, as Hauser relates in his account of the Soviet murder of the Polish children followed by the pogrom, the Soviet occupation laid the groundwork for the Nazis in fostering more violent antisemitism. 
 
-
+```yaml:block
+type: "image"
+data:
+    src: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-0574/EasternGalicia.jpg"
+    caption: "Map of Eastern Galicia, reproduced with permission from IUP from Frank Golczewski, 'Shades of Grey: Reflections on Jewish-Ukrainian and German-Ukrainian Relations in Galicia', in *The Shoah in Ukraine: History, Testimony, Memorialization*, ed. Ray Brandon and Wendy Lower (Bloomington: Indiana University Press, 2008, p. 137." 
+```
 
 This sort of popular violence erupted with and without the direct involvement of the Germans. Indeed, the pogroms may have emboldened Nazi leaders who realized that they could find plenty of support on the ground for their own more extreme genocidal campaign of a "Final Solution." Reichsführer of the SS-police Heinrich Himmler unleashed his motorized shooting squads and deployed mobile gas vans to murder Jews and Soviet POWs across the Soviet Union, then commissioned architects and gassing experts to construct the first stationary killing centers in Nazi-occupied Poland. Hauser's region of western Ukraine fell within the borders of Nazi-occupied Poland (known as the General Government), as did the Sobibor, Treblinka, and Belzec camps. Of the more than 540,000 Jews in Hauser's region, about 200,000 were killed in or near their hometowns in pogroms, mass shootings, and smaller massacres in or near ghettos and labor camps. The remainder, about 345,000, were deported and gassed immediately, mostly at Belzec.[^20] Hauser's story combines these two histories of the Holocaust – murder by bullets, and the industrialized murders in the camps.
 
@@ -134,7 +139,12 @@ A second prominent and under-researched  theme in Hauser's testimony is the post
 
 [^24]: Andrew Nagorski, *The Nazi Hunters* (New York: Simon and Schuster, 2017); Guy Walters, *Hunting Evil: The Nazi War Criminals Who Escaped and the Quest to Bring Them to Justice* (New York: Broadway Books, 2009).
 
-
+```yaml:block
+type: "image"
+data:
+    src: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-0574/HauserInsert.jpg"
+    caption: "Hauser holds the book *Antworte Mensch*, 00:17:24.52." 
+```
 
 [^25]: Laura Jockusch, *Collect and Record! Jewish Holocaust Documentation in early postwar Europe* (Oxford University Press, 2012), 121-161.
 
