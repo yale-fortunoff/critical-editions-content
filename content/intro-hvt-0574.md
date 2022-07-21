@@ -110,7 +110,7 @@ Hauser's testimony corroborates this history of violence while adding another vi
 type: "image"
 data:
     src: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-0574/EasternGalicia.jpg"
-    caption: "Map of Eastern Galicia, reproduced with permission from IUP from Frank Golczewski, 'Shades of Grey: Reflections on Jewish-Ukrainian and German-Ukrainian Relations in Galicia', in *The Shoah in Ukraine: History, Testimony, Memorialization*, ed. Ray Brandon and Wendy Lower (Bloomington: Indiana University Press, 2008, p. 137." 
+    caption: "Map of Eastern Galicia, reproduced with permission from IUP from Frank Golczewski, 'Shades of Grey: Reflections on Jewish-Ukrainian and German-Ukrainian Relations in Galicia', in The Shoah in Ukraine: History, Testimony, Memorialization, ed. Ray Brandon and Wendy Lower (Bloomington: Indiana University Press, 2008, p. 137." 
 ```
 
 This sort of popular violence erupted with and without the direct involvement of the Germans. Indeed, the pogroms may have emboldened Nazi leaders who realized that they could find plenty of support on the ground for their own more extreme genocidal campaign of a "Final Solution." Reichsführer of the SS-police Heinrich Himmler unleashed his motorized shooting squads and deployed mobile gas vans to murder Jews and Soviet POWs across the Soviet Union, then commissioned architects and gassing experts to construct the first stationary killing centers in Nazi-occupied Poland. Hauser's region of western Ukraine fell within the borders of Nazi-occupied Poland (known as the General Government), as did the Sobibor, Treblinka, and Belzec camps. Of the more than 540,000 Jews in Hauser's region, about 200,000 were killed in or near their hometowns in pogroms, mass shootings, and smaller massacres in or near ghettos and labor camps. The remainder, about 345,000, were deported and gassed immediately, mostly at Belzec.[^20] Hauser's story combines these two histories of the Holocaust – murder by bullets, and the industrialized murders in the camps.
@@ -143,7 +143,7 @@ A second prominent and under-researched  theme in Hauser's testimony is the post
 type: "image"
 data:
     src: "https://d12q9fe14kxf9b.cloudfront.net/media/hvt-0574/HauserInsert.jpg"
-    caption: "Hauser holds the book *Antworte Mensch*, 00:17:24.52." 
+    caption: "Hauser holds the book Antworte Mensch, 00:17:24.52." 
 ```
 
 [^25]: Laura Jockusch, *Collect and Record! Jewish Holocaust Documentation in early postwar Europe* (Oxford University Press, 2012), 121-161.
