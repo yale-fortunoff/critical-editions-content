@@ -13,7 +13,8 @@ essayPath: "/data/intro-hvt-2348.json"
 publicationDate: May 6, 2022
 ```
 
-Introduction:
+## Introduction
+
 Sidney Bruskin was interviewed by Joanne Rudof and Frances Cohen on February 17th, 1994 at the Fortunoff Video Archive for Holocaust Testimonies, Yale University.[^1] The two interviewers sat down with Bruskin, then 89 years old, to discuss his life—before, during, and after the Holocaust. Nine years later (November 13, 2003), a New Haven high school student named Tamar Rubin interviewed Bruskin for the New Haven Oral History Project, and that document also proves useful in understanding Bruskin's life experiences.[^2] Both a recording of Tamar Rubin's interview and a transcript are housed in the Yale University Archives. Sidney Bruskin passed away in 2005, two years after the Rubin interview.
 
 [^1]: Fortunoff Video Archive for Holocaust Testimonies, Yale University: mssa_hvt_2348. Note that the annotations by Jonathan Petropoulos are in bold.
@@ -32,13 +33,13 @@ Bruskin's family is representative of broader immigration patterns. Between 1881
 
 >Jewish migration from the Russian Empire to the United States in the years 1881–1914 was one of the most intense mass population movements in history. Over a single generation, more than a quarter of the Jewish-Russian population was resettled overseas... The Russian Empire was home to some 5.3 million Jews in 1897, approximately half of world Jewry. Almost all of them, 94 percent, were residing in a restricted territory known as the Pale of Settlement, comprising the 25 western provinces of the Russian Empire... Under the Tsars, the Jewish population experienced a very rapid population growth, according to estimates as much as five-fold during the nineteenth century.. The 1881 crisis that followed the assassination of the relatively liberal-minded Tsar Alexander II, and the ascendance to the throne of his reactionary son Tsar Alexander III, is often considered a "turning point" in Jewish History.. [leading to] the notorious May Laws of 1882 and a series of anti-Jewish legislations that further restricted the rights of residence, education, occupation, and political representation of Russian Jews.[^6] 
 
-[^5]: Silviu Costachie, ‘The Immigration of Jews from the Russian Empire,’ in *Geopolitics, History, and International Relations* 3/2 (2011), 248-53; Yannay Spitzer, ‘Pogroms, Networks and Migrations: The Jewish Migration from the Russian Empire to the United States, 1881-1914,’ in <https://eh.net/eha/wp-content/uploads/2013/11/Spitzer.pdf> (accessed 9 March 2021).
+[^5]: Silviu Costachie, 'The Immigration of Jews from the Russian Empire,' in *Geopolitics, History, and International Relations* 3/2 (2011), 248-53; Yannay Spitzer, 'Pogroms, Networks and Migrations: The Jewish Migration from the Russian Empire to the United States, 1881-1914,' in <https://eh.net/eha/wp-content/uploads/2013/11/Spitzer.pdf> (accessed 9 March 2021).
 
-[^6]: Spitzer, ‘Pogroms,’ 3.
+[^6]: Spitzer, 'Pogroms,' 3.
 
 The Bruskins, like many turn-of-the-century immigrants, assimilated fairly quickly. They began in the more industrial town of Ansonia, which is located on the Naugatuck River in New Haven Country, about twelve miles northwest of New Haven proper. Known as 'Copper City' due to the important heavy machine manufacturing industry, Ansonia had a large working-class population, including many who were first generation immigrants, like the parents of Sidney Bruskin. Ansonia can also be considered the birthplace of the American bicycle: in 1866, French-born inventor Pierre Lallement submitted an application for a patent for the first pedal bicycle. Sidney Bruskin would go on to own a bike shop in New Haven, evidently influenced by local pride in the important invention.[^7]
 
-[^7]: See the Wikipedia page for ‘Ansonia’: https://en.wikipedia.org/wiki/Ansonia,_Connecticut.
+[^7]: See the Wikipedia page for 'Ansonia': https://en.wikipedia.org/wiki/Ansonia,_Connecticut.
 
 As Bruskin notes, his family moved from Ansonia to New Haven when he was four years old. Bruskin would reside in New Haven until his retirement, when his "wife became ill and handicapped," and they moved to Oronoque Forest, a development in West Haven (but not far from New Haven). As Bruskin told a high school student in 2003, "I've always considered New Haven as my real home, where I was brought up and all my friends—most of my friends—live here... I'm a New Havener."[^8]
 
@@ -46,7 +47,7 @@ As Bruskin notes, his family moved from Ansonia to New Haven when he was four ye
   
 Bruskin's family moved within New Haven and he ended up attending Winchester School, then located at 68 Gregory Street. To give a flavor of New Haven's history: the school was named after Oliver F. Winchester, "who founded Winchester Repeating Arms, one of the largest gun manufacturing companies in the world. He was also Lt. Governor of Connecticut in 1866 and founded the Winchester Observatory at Yale."[^9] The school facility now houses the Wexler-Grant Community School, where 96 percent of the students come from minority populations.[^10] At the time Bruskin attended the Winchester School, he estimated that there were 600 pupils there, half of them black and half white. 
 
-[^9]: See ‘Walk New Haven’: <https://walknewhaven.org/winchester-school>. 
+[^9]: See 'Walk New Haven': <https://walknewhaven.org/winchester-school>. 
 
 [^10]: See <https://www.publicschoolreview.com/wexler-grant-community-school-profile>.
 
@@ -68,7 +69,7 @@ Oren references one file in the university archives labeled "Jewish Problem," wh
 
 >The next year, the admissions committee enacted the 'Limitation of Numbers' policy, an informal quota. Jewish enrollment was held to about 10 percent for four decades... Today, Jewish students account for about 30 percent of the Yale enrollment, far greater than the proportion of Jews in the United States population, which is listed at 2.5 percent in the 1985 American Jewish Year Book... Not until 1946 would a Jew become a full professor at Yale College. Not until 1947 did the Corbey Court eating club for law students accept Jews, finally extending membership to a small group that included Robert M. Morgenthau, [who went on to become] the Manhattan District Attorney. And not until 1965 did a Jew become a member of the Yale Corporation, when William Horowitz, a banker in New Haven, was elected to the board that sets university policy... In 1948, Yale ceased automatically segregating housing between Christians and Jews, blacks and whites. Still, the number of Jewish students remained relatively fixed at about 10 percent.[^16]
 
-[^16]: Dirk Johnson, ‘Yale’s Limit on Jewish Enrollment Lasted Until Early 1960s, Book Says,’ *New York Times* (4 March 1986) at <https://www.nytimes.com/1986/03/04/nyregion/yale-s-limit-on-jewish-enrollment-lasted-until-early-1960-s-book-says.html>. See also Dan Oren, *Joining the Club: A History of Jews and Yale* (New Haven: Yale University Press, 1986); and Jerome Karabel, *The Chosen: The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton* (New York: Mariner Books, 2006).
+[^16]: Dirk Johnson, 'Yale's Limit on Jewish Enrollment Lasted Until Early 1960s, Book Says,' *New York Times* (4 March 1986) at <https://www.nytimes.com/1986/03/04/nyregion/yale-s-limit-on-jewish-enrollment-lasted-until-early-1960-s-book-says.html>. See also Dan Oren, *Joining the Club: A History of Jews and Yale* (New Haven: Yale University Press, 1986); and Jerome Karabel, *The Chosen: The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton* (New York: Mariner Books, 2006).
 
 Despite the quotas, Bruskin recalled that there was an expectation that Jewish boys would receive an education. As Bruskin explained, "Our ethnic background and so-forth, it was just where you got to go. You go to high school and you supposedly go to college too, if you can afford it."[^17]
 
@@ -104,7 +105,7 @@ Bruskin recalled of his Jewish friends from high school, "They went to Hillhouse
 
 Bruskin majored in French at Yale, but he learned other languages too, including German and Italian (he would later also learn Yiddish). Languages had long been part of Anglo-American university education—classical languages predominated until the nineteenth century, with the shift toward modern languages growing more pronounced in the twentieth century. Still, relatively few students at Yale majored in a language in the 1930s. Bruskin's European-born parents had realized the importance of languages. This was common among European Jews—the belief that persecution was always a possibility and that languages helped provide an escape route. Cultural critic George Steiner, who was born in Paris in 1929 to Viennese emigres, recalled how his father moved the family from Austria to France to escape the growing threat of antisemitism. He believed that Jews were "endangered guests wherever they went" and ensured that his children learned languages: Steiner grew up with three mother tongues: German, English, and French. Steiner's  mother was multilingual and would often "begin a sentence in one language and end it in another."[^25] Sidney Bruskin, although not matching George Steiner in ability, developed language skills that would be instrumental in his wartime service.
 
-[^25]: See the Wikipedia entry for George Steiner: <https://en.wikipedia.org/wiki/George_Steiner>, which cites Maya Jaggi, ‘George and his dragons,’ *The Guardian* (March 17, 2001). Retrieved March 27, 2008.
+[^25]: See the Wikipedia entry for George Steiner: <https://en.wikipedia.org/wiki/George_Steiner>, which cites Maya Jaggi, 'George and his dragons,' *The Guardian* (March 17, 2001). Retrieved March 27, 2008.
 
 The Great Depression often yielded unexpected life choices: while Bruskin aspired to be a teacher, he ended up a bicycle-shop proprietor. It remains an unanswered question why he did not know how to cycle: he was not too poor to obtain a used one. While he was a good student, he was not overly cerebral (he was on the wrestling team). Perhaps New Haven was too urban? At that time, the city was more compact and it was possible to travel most places by foot. Regardless, Bruskin ended up with a bicycle business. He recalls that because there were no teaching jobs available in the USA when he graduated from Yale, he looked to go abroad and teach. On the train back from New York, where he had visited teacher agencies, he met a man in the bike business who suggested he start his own rental shop. Sidney managed to obtain $110 from an insurance policy his father had taken out when he was a year old, and that allowed him to buy "dozens of used bicycles" and start his business.[^26] He opened his shop on 4 April 1937 (on a bitterly cold day when no one wanted to rent a bike), but he persevered and expanded operations to include repairs. The Bicycle Shopremained a fixture for a long time in downtown New Haven. It was located in the Oak Street District, where Italian- and Jewish-Americans predominated.[^27] Bruskin's shop was located at 1129 Oak Street, which is near the corner of York Avenue. The building in which the shop was located was torn down in 1961 and replaced by Paul Rudolph's famous and controversial Yale School of Architecture building. Architectural historian Elizabeth Mills Brown comments:
 
@@ -114,7 +115,7 @@ Bruskin's small bike shop therefore gave way to an important building in the his
 
 [^26]: Sidney Bruskin interviewed by Tamar Rubin, New Haven Oral History Project (13 November 2003).
 
-[^27]: See ‘Death of a Neighborhood,’ *Mother Jones*: <https://www.motherjones.com/politics/2000/09/death-neighborhood/> **give date of access**. See also the *Yale Daily News*, 5 January 1973: <https://ydnhistorical.library.yale.edu/?a=d&d=YDN19730105-01.2.24&e=-------en-20--1--txt-txIN------->.
+[^27]: See 'Death of a Neighborhood,' *Mother Jones*: <https://www.motherjones.com/politics/2000/09/death-neighborhood/> **give date of access**. See also the *Yale Daily News*, 5 January 1973: <https://ydnhistorical.library.yale.edu/?a=d&d=YDN19730105-01.2.24&e=-------en-20--1--txt-txIN------->.
 
 [^28]: Elizabeth Mills Brown, *New Haven: A Guide to Architecture and Urban Design* (New Haven: Yale University Press, 1976), 69.
 
@@ -138,13 +139,13 @@ When the Americans from the 80th Infantry Division arrived on 6 May, they were n
 
 [^34]: See Florian Freund, *Concentration Camp Ebensee: Subcamp of Mauthausen* (Vienna: Austrian Resistance Archives, Dokumentationsarchiv des Oesterreichischen Widerstandes, 1998 [1990]), 62.
 
-[^35]: See the ‘Gedenkstättenportal zu Orten der Erinnerung in Europa’: <https://www.memorialmuseums.org/eng/staettens/view/86/Museum-for-Contemporary-History-and-Ebensee-Concentration-Camp-Memorial#> (accessed 21 July 2021).
+[^35]: See the 'Gedenkstättenportal zu Orten der Erinnerung in Europa': <https://www.memorialmuseums.org/eng/staettens/view/86/Museum-for-Contemporary-History-and-Ebensee-Concentration-Camp-Memorial#> (accessed 21 July 2021).
 
 Robert Matteson offered the following account of what he and Sidney Bruskin experienced:
 
 >"Proceeding the same day up the long Traunsee shore into the Redoubt area with a tank battalion, Sid [Bruskin] and I were afforded the opportunity to examine a concrete manifestation of Kaltenbrunner's work, the concentration camp at Ebensee. Part of the Mauthausen extermination system built up by Kaltenbrunner when he had been the 'Little Himmler' of Austria, it seemed more horrible even than Dachau or Ohrdruf. Bodies that one would never have believed could exist alive were walking around, covered with sores and lice. The filth was indescribable. Adjacent to the crematorium were rooms piled high with shrunken nude bodies, lye thrown over them to combat the stench and vermin. The excess bodies that couldn't be handled at the crematorium were hauled by the wagonload to another part of the enclosure, where they were dumped into open pits filled with a chemical solution. Worse still was the hospital, where the dying and sick had been herded for experimentation before being carted off to the crematorium. There were no beds in it; the inmates lay on shelves covered with dirty rags, groups of two or three huddled together like mice to keep warm. As we entered they put out their hands and begged for food. When we told them we had none, but that the American medics and military government personnel would be along immediately, they broke down and sobbed, "We have waited for you four, five, six years. Now you come empty-handed."[^36]
 
-[^36]: Robert Matteson, ‘The Last Days of Ernst Kaltenbrunner’ (CIA Library’s Center for the Study of Intelligence, 2007), 4: <https://www.cia.gov/static/eb2a597a1af439815b52e9b7ab190daa/Last-Days-of-Kaltenbrunner.pdf>.
+[^36]: Robert Matteson, 'The Last Days of Ernst Kaltenbrunner' (CIA Library's Center for the Study of Intelligence, 2007), 4: <https://www.cia.gov/static/eb2a597a1af439815b52e9b7ab190daa/Last-Days-of-Kaltenbrunner.pdf>.
 
 ```yaml:aviary
 ead_id: mssa.hvt.2348
