@@ -1,1 +1,1 @@
-essay-formatter @ git+https://github.com/yale-fortunoff/essay-formatter
+essay-formatter @ git+https://github.com/yale-fortunoff/essay-formatter@main#egg=essay-formatter
