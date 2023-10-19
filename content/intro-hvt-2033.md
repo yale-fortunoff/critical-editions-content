@@ -7,7 +7,7 @@ aviaryLink: https://fortunoff.aviaryplatform.com/collections/5/collection_resour
 supertitle: Introduction to the testimony of
 hvtID: '2033'
 title: Esther Fox
-author: Sari J. Siegel
+author: Sari J. Siegel 
 affiliation: Cedars-Sinai Medical Center/UCLA
 essayPath: "/data/intro-hvt-2033.json"
 publicationDate: February 1, 2021
