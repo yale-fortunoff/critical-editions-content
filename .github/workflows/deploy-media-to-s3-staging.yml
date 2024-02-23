@@ -4,7 +4,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: ["staging"]
-    paths: ["media", ".github/workflows/deploy-media-to-s3-staging.yml"]
+    paths: ["media/**", ".github/workflows/deploy-media-to-s3-staging.yml"]
 
 env:
   AWS_REGION: ca-central-1
