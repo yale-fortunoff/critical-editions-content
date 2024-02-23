@@ -24,7 +24,7 @@ jobs:
       - name: Deploy media to S3 bucket
         run: |
           echo "Deploying branch ${{ env.GITHUB_REF }} to ${{ github.event.inputs.environment }}"
-          aws s3 sync ./media s3://${{ env.S3BUCKET }}/critical-editions
+          aws s3 sync ./media s3://${{ env.S3BUCKET }}/critical-editions/media
       #      - name: Invalidating Cloudfront Cache
       #        run: |
       #          echo "Deploying branch ${{ env.GITHUB_REF }} to ${{ github.event.inputs.environment }}"
