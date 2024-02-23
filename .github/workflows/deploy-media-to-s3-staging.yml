@@ -23,7 +23,7 @@ jobs:
           aws-region: ${{ env.AWS_REGION }}
       - name: Deploy media to S3 bucket
         run: |
-          aws s3 sync ./media s3://${{ env.S3BUCKET }}/critical-editions --delete
+          aws s3 sync ./media s3://${{ env.S3BUCKET }}/critical-editions --delete --acl public-read
       #      - name: Invalidating Cloudfront Cache
       #        run: |
       #          echo "Deploying branch ${{ env.GITHUB_REF }} to ${{ github.event.inputs.environment }}"
