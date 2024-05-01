@@ -24,7 +24,6 @@ jobs:
       - name: Deploy data to S3 bucket
         run: |
           aws s3 sync ./data s3://${{ env.S3BUCKET }}/data --delete
-      #      - name: Invalidating Cloudfront Cache
-      #        run: |
-      #          echo "Deploying branch ${{ env.GITHUB_REF }} to ${{ github.event.inputs.environment }}"
-      #          aws cloudfront create-invalidation ./data s3://${{ env.S3BUCKET }}/data
+      - name: Invalidating Cloudfront Cache
+        run: |
+          aws cloudfront create-invalidation ./data s3://${{ env.S3BUCKET }}/data
