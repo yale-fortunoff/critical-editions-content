@@ -24,7 +24,6 @@ jobs:
       - name: Deploy media to S3 bucket
         run: |
           aws s3 sync ./media s3://${{ env.S3BUCKET }}/critical-editions --delete --acl public-read
-      #      - name: Invalidating Cloudfront Cache
-      #        run: |
-      #          echo "Deploying branch ${{ env.GITHUB_REF }} to ${{ github.event.inputs.environment }}"
-      #          aws cloudfront create-invalidation ./data s3://${{ env.S3BUCKET }}/data
+      - name: Invalidating Cloudfront Cache
+        run: |
+          aws cloudfront create-invalidation --distribution-id E3HZDQWL860EH9 --paths "/critical-editions/*"

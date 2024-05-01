@@ -26,4 +26,4 @@ jobs:
           aws s3 sync ./data s3://${{ env.S3BUCKET }}/data --delete
       - name: Invalidating Cloudfront Cache
         run: |
-          aws cloudfront create-invalidation ./data s3://${{ env.S3BUCKET }}/data
+          aws cloudfront create-invalidation --distribution-id E20PD0GWR3ZS79 --paths "/data/*"
