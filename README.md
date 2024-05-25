@@ -32,3 +32,5 @@ The naming convention of the files is important for the website to function corr
 Holds images, videos and pdfs relevant to the editions.
 
 The naming convention of the paths and files is important for the website to function correctly.
+
+> **_NOTE:_** The folder `/critical-editions-content/media/media/hvt-xxxx/` holds images that can be referenced via `Image` blocks in the editor by filename.
