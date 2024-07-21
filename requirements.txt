@@ -1,1 +1,0 @@
-essay-formatter @ git+https://github.com/yale-fortunoff/essay-formatter
