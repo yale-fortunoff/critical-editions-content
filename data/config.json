@@ -1,19 +1,6 @@
 {
   "essays": [
     {
-      "slug": "hvt-3178",
-      "smallVideoPath": "https://d12q9fe14kxf9b.cloudfront.net/3178/background-loop-640.mp4",
-      "videoPath": "https://d12q9fe14kxf9b.cloudfront.net/3178/background-loop-1280.mp4",
-      "posterPath": "https://d12q9fe14kxf9b.cloudfront.net/3178/poster.jpg",
-      "hvtID": "3178",
-      "supertitle": "Introduction to the testimony of",
-      "title": "Krystyna Gil",
-      "author": "Aleksandra Szczepan",
-      "affiliation": "University of Potsdam",
-      "essayPath": "/data/intro-hvt-3178.json",
-      "id": "hvt-3178"
-    },
-    {
       "slug": "hvt-3164",
       "smallVideoPath": "https://d12q9fe14kxf9b.cloudfront.net/3164/background-loop-640.mp4",
       "videoPath": "https://d12q9fe14kxf9b.cloudfront.net/3164/background-loop-1280.mp4",
