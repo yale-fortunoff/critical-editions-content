@@ -1,0 +1,1059 @@
+{
+  "meta": {
+    "title": "Meir Reichman",
+    "hvtID": "2570",
+    "id": "hvt-2570",
+    "slug": "hvt-2570",
+    "essayPath": "/data/intro-hvt-2570.json",
+    "posterPath": "https://d12q9fe14kxf9b.cloudfront.net/2570/poster.webp",
+    "smallVideoPath": "https://d12q9fe14kxf9b.cloudfront.net/2570/background-loop-640.mp4",
+    "videoPath": "https://d12q9fe14kxf9b.cloudfront.net/2570/background-loop-1280.mp4",
+    "author": "Anca Filipovici",
+    "affiliation": "Wiener Wiesenthal Institute",
+    "supertitle": "Introduction to the testimony of",
+    "aviaryLink": "https://fortunoff.aviaryplatform.com/c/mssa.hvt.2570",
+    "publicationDate": "January 9th, 2025"
+  },
+  "blocks": [
+    {
+      "id": "mRoLf15GC7",
+      "type": "header",
+      "data": {
+        "text": "I. Introduction. On resistance",
+        "level": 2
+      }
+    },
+    {
+      "id": "t2U1-2Qifz",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Most\nhistories of the underground resistance during the Second World War don’t\nmention the Zionist youth movements.<sup class=\"footnote-ref\"><a href=\"#fn-1\">1</a></sup>The\nagency of the Jews as victims fighting back is an untold chapter of the resistance\nmovements. Nevertheless, rescue actions and interventions of Jewish adult\nleadership have been thoroughly explored by Holocaust researchers in the last\ndecades. But much less attention has been awarded to the youth, to those\nunknown youngsters without political strength and economic resources, who\nstepped up to help others. "
+      }
+    },
+    {
+      "id": "LOGLpvtLtQ",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-1",
+        "label": "1",
+        "text": "For instance, see Patrick G. Zander, <i style=\"mso-bidi-font-style:normal\">Hidden Armies of the Second World War: World War II Resistance Movements</i> (Santa Barbara: Praeger, 2017). <i>Zionism</i> refers to the Jewish nationalist movement that has had as its goal the creation and support of a Jewish national state in Palestine.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "2sP-0SFJCu",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "The rescue actions\nof the Zionist youth organizations in Romania and the political activism of\nyoung Jews in other movements, in the lead up to and during the Holocaust, were\nthe topic of a research project that I conducted as a Fortunoff fellow at the\nVienna Wiesenthal Institute for Holocaust Studies, in 2022-2023. Most research\non Jewish resistance has been shaped by Yehuda Bauer’s definition of <i>resistance</i>\nas focused on group initiatives and mobilization.<sup class=\"footnote-ref\"><a href=\"#fn-2\">2</a></sup>The definition was extended by historians like Wolf Gruner to also include individual\nacts of defiance. Thus, I refer to Jewish resistance “any individual or group\naction in opposition to known laws, actions, or intentions of the Nazis and\ntheir helpers.”<sup class=\"footnote-ref\"><a href=\"#fn-3\">3</a></sup>"
+      }
+    },
+    {
+      "id": "axa10AKx7V",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-2",
+        "label": "2",
+        "text": "Yehuda Bauer, “Forms of Jewish Resistance,” in <i>The Holocaust: Problems and Perspectives of Interpretation</i>, 3rd edition, ed. Donald L.\nNiewyk (Belmont: Wadsworth Publishing, 2002).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "WZv4A8mC99",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-3",
+        "label": "3",
+        "text": "Wolf Gruner, “‘The Germans should expel the Foreigner Hitler…’ Open Protest and Other Forms of Jewish Defiance in Nazi Germany,” in <i style=\"mso-bidi-font-style:normal\">Yad Vashem Studies</i>, 39 (2), 2011: 13-53.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "OuA_Al6qvf",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "The Holocaust in Romania has\nbecome a vast field of study since 1990, researchers dealing especially with\nthe two classic categories of analysis: perpetrators and victims. They have explored\nthe different forms of anti-Jewish persecution, the reactions of the Jewish\nleaders, and the tragic daily life of the deportees in camps and ghettos. Studies\nof resistance and rescue, however, still promise many undiscovered histories.\nIn 1990, Dalia Ofer published a pioneering work on illegal immigration,<sup class=\"footnote-ref\"><a href=\"#fn-4\">4</a></sup>focusing also on <i>aliyah</i> from Romania to Palestine during World War II.\nProfessor Iaacov Geller's book discusses the spiritual resistance performed\nthrough the Jewish school network, the social and health care system, and the\nreligious actions of the rabbis.<sup class=\"footnote-ref\"><a href=\"#fn-5\">5</a></sup>Lya Benjamin’s study connects resistance with the literary and artistic works\ncreated during the Holocaust.<sup class=\"footnote-ref\"><a href=\"#fn-6\">6</a></sup>A more recent work by Ștefan Ionescu looks\nat the legal resistance strategies of Jewish officials during Ion Antonescu’s\nregime.<sup class=\"footnote-ref\"><a href=\"#fn-7\">7</a></sup>In all this, Jewish youth\norganizations are mentioned only tangentially and have never been analyzed as a\ndistinct agency of defiance and resistance. &nbsp;"
+      }
+    },
+    {
+      "id": "YuUaC0zp5M",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-4",
+        "label": "4",
+        "text": "Dalia Ofer, <i style=\"mso-bidi-font-style:normal\">Escaping the Holocaust: Illegal Immigration to the Land of Israel, 1939-1944 </i>(New York, Oxford: Oxford University Press, 1990).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "DYfEmQavmU",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-5",
+        "label": "5",
+        "text": "Iacov Geller, <i style=\"mso-bidi-font-style:normal\">Rezistența spirituală a evreilor români în timpul Holocaustului</i> (București: Hasefer, 2004).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "-jUevSxi-_",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-6",
+        "label": "6",
+        "text": "Lya Benjamin, <i style=\"\">Prigoană și rezistență în istoria evreilor din România, 1940-1944</i> (București: Hasefer, 2003).\n",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "wCPd3ZGIul",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-7",
+        "label": "7",
+        "text": "Ștefan Ionescu, <i style=\"mso-bidi-font-style:normal\">Jewish Resistance to ‘Romanianization</i>,<i style=\"mso-bidi-font-style:normal\">’ 1940-44</i> (London: Palgrave Macmillan, 2015).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "U61vFFpY48",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "One of the main\nreasons for this lacuna in the historiography seems to be scarce access to\nsources. In general, underground resistance histories are only partially based\non archive documents, as they rather explore secondary literature and\ntestimonies.<sup class=\"footnote-ref\"><a href=\"#fn-8\">8</a></sup>Since membership in resistance movements was fluid and volatile, and the\nsecrecy of the operations required precisely lack of any proof,<sup class=\"footnote-ref\"><a href=\"#fn-9\">9</a></sup>many details (like the precise number and names of those involved, the details\nof actions, etc.) will simply never be revealed. And this is even more the case\nwith soft-resistance actions (non-armed combat) and with the Jewish underground\nin general, whose members were individuals deprived of civil rights. "
+      }
+    },
+    {
+      "id": "H166vcy6X_",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-8",
+        "label": "8",
+        "text": "Zander, <i style=\"mso-bidi-font-style:normal\">Hidden armies</i>, ix.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "Xq4yda3wQT",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-9",
+        "label": "9",
+        "text": "Zander, <i style=\"mso-bidi-font-style:normal\">Hidden armies</i>, 60.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "OmLK0N_g6p",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Aware of all various\nlimitations, my research attempted to: 1) reconstitute two case studies of the underground\nZionist youth actions investigated in the 1940s by the Romanian Secret Police;\n2) discuss broader aspects of youth activism, the political options of Jewish\nyouth and the Zionist dimension of Jewish identity. The main sources in this\ninvestigation were written memoirs and oral testimonies from the Fortunoff\nvideo archive, produced by former members of Zionist youth organizations. "
+      }
+    },
+    {
+      "id": "_LLy2vXHtV",
+      "type": "header",
+      "data": {
+        "text": "II. On methodology. First encounter with Meir’s story",
+        "level": 2
+      }
+    },
+    {
+      "id": "DMi6pTW3F_",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "From a\nmethodological perspective, I did not approach oral testimonies in order to\nperform a memory studies analysis. Rather, I rely on these accounts as sources\nof historical facts, filtered by personal experience, aware that most survivors\ndidn’t aim to be documentarians.<sup class=\"footnote-ref\"><a href=\"#fn-10\">10</a></sup>While working in the Fortunoff archive with the search engines of both the\nAviary platform and Metadash visual search tool, I used certain keywords to\nidentify the testimonies of those Holocaust survivors who, at some certain\npoint, were members of a Zionist movement or were connected with the Zionist\nunderground during the war. Also, Romania had to be either their country of\norigin or a transit on the way to Palestine. Hence this\nintroduction, built around the life story and testimony of Meir Reichman, a Jew\nborn in 1931 in Iași, who\nexperienced the Holocaust in Romania and was in temporary collaboration with\nthe Zionist underground in Bucharest in 1944. Other testimonies and memoirs are\nalso called upon for a better contextualization. &nbsp;"
+      }
+    },
+    {
+      "id": "FqtjZDrCga",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-10",
+        "label": "10",
+        "text": "Henry Greenspan, Sara R. Horowitz, Éva Kovács, Berel Lang, Dori Laub, Kenneth Waltzer &amp; Annette Wieviorka, “Engaging Survivors: Assessing ‘Testimony’ and ‘Trauma’ as Foundational Concepts,” in <i style=\"mso-bidi-font-style:normal\">Dapim: Studies on the Holocaust</i>, 28(3) (2014), 194, DOI:10.1080/23256249.2014.951909. ",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "I6yOT0el3V",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Meir Reichman’s\ntestimony reveals an exceptional life story. He was an orphan who during the\nSecond World War lived in the Moldovan city of Iași, in a Jewish orphanage requisitioned by German\nofficers. Towards the end of the war, before departing to Palestine, Meir spent\nsome time in Bucharest, accommodated by a Jewish family. In the Romanian capital,\nhe engaged in specific actions helping the underground Zionist movement. I\nconsider this a key episode in my research, as Meir unveils a precious glimpse into\nZionist resistance networks in Bucharest, even though he was only a temporary\ncollaborator. "
+      }
+    },
+    {
+      "id": "tc0G4icLQE",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Recorded in 1993, almost\n50 years after his traumatic childhood experiences, and narrated in a\nnon-native language, his story – especially in the transcript version – may appear\nincoherent, and difficult to follow. And Meir was aware of this: “of course my\nEnglish is not so good. I thought I missed many words. I cannot express myself\nexactly.” His desire to share stories about his life, framed by historical data,\nis constantly limited by language difficulties. It is not clear why Meir chose\nto speak in English (he could have opted for Hebrew, as did many other\nsurvivors). A possible reason is the neutral role that English has for\nsurvivors and the fact that English became a preferred language for Holocaust\ndiscourse after the war.<sup class=\"footnote-ref\"><a href=\"#fn-11\">11</a></sup>But\nthough saying things is sometimes challenging, Meir does have a lot to tell.\nAnd his message is best received when watching the video testimony and not only\nreading the typed transcript. As researcher Noah Shenker argues, video\ntestimonies draw “from voices, faces, and other expressive elements that work\nnot only in concert, but also in conflict with one another, revealing a more\ncomplicated picture of a witness’s experiences and how he or she grapples with\nits aftermath.”<sup class=\"footnote-ref\"><a href=\"#fn-12\">12</a></sup>"
+      }
+    },
+    {
+      "id": "3lc-lkuu-z",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-11",
+        "label": "11",
+        "text": "An explanation provided by historian Jürgen Matthäus as to why some survivors prefer to narrate in English. See Jürgen Matthäus, “Displacing Memory: The Transformations of an Early Interview” in <i style=\"mso-bidi-font-style:\nnormal\">Approaching an Auschwitz Survivor: Holocaust Testimony and its Transformations</i>, ed. Jürgen Matthäus (Oxford: Oxford University Press, 2009), 57.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "YeykSkE9PS",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-12",
+        "label": "12",
+        "text": "Noah Shenker, <i style=\"mso-bidi-font-style:normal\">Reframing Holocaust Testimony</i> (Bloomington, Indianapolis: Indiana University Press, 2015), 6.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "0xmtcDS5gh",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Meir’s testimony follows\nthe conventional model. He shared his experiences in a factual narrative\nmanner, sometimes inaccurate, diachronic at the beginning, and then with jumps\nand returns. After a short introduction of himself and his childhood as an\norphan, he begins directly telling of one of the most painful episodes of the\nHolocaust in Romania, the pogrom in Iași that he\nwitnessed as a 10-year-old boy. While he is narrating, his hands are always in\nthe air, with gestures that highlight certain aspects of the story. According\nto the standardized model for the testimonies, he was filmed with a black\nbackground, from the waist up, with frequent zooming in on his face. Though other\ngestures and positions of the body are not captured, the camera centred on\nMeir’s face shows how transposed he is into the story; the\nemotion in his voice when he shares sensitive episodes of his childhood (like\nthe episode with the SS officer shooting at him); the expressivity of his\nserene face and his big brown eyes; and, from time to time, his smile. He\nusually smiles when telling stories about his life after <i>aliyah</i> (for\ninstance, when describing the recruitment process of youngsters by the\ndifferent Jewish parties in Palestine; or the moment when he met his childhood\nfriend in Israel, at a bus stop). His smile reflects his happiness at the end\nof the testimony, when he proudly shows the pictures of his children and\ngrandchildren. It is the smile of a survivor, aware that he is a man of many\nchances and a man who has now his own family. "
+      }
+    },
+    {
+      "id": "ztGTo7Q8P2",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Though Meir has\nthe main agency in the testimonial process, the testimony is not\na monologue. The two interviewers engaged in the narration by addressing questions\nand suggesting words when Meir had language difficulties, or opening new topics\nfor discussion. Thus, the act of remembering was mediated to a certain degree. In\nmy understanding of Meir’s story and the act of testimonial production, some\nmethodological errors occurred through the mediation of the interviewers."
+      }
+    },
+    {
+      "id": "B_r3RqGM-g",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Some questions addressed by the interviewers\nsuggest a slight loss of focus on their part. Though Meir started his testimony\nby mentioning that he didn’t have a family and was raised in an orphanage, one interviewer\nasked after 10 minutes “Were your-- were your parents observant or was your\nfamily, were they religious?” So Meir had to remind her that his parents died\nwhen he was a small child. In another section, when Meir shares details about\nhis months in Bucharest in spring 1944, the interviewer still thinks that they\ntalk about Iași:"
+      }
+    },
+    {
+      "id": "RjZfqV1nV3",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:19:15.59] INTERVIEWER: And when-- when you said you-- you ran away, how far away was it from the orphanage? Where did you have-- [00:19:20.78] MEIR REICHMAN: There was no orphanage. At this time I was in--[00:19:22.85] CREW: This was in Bucharest. [00:19:23.06]INTERVIEWER: I mean in--[00:19:23.75] MEIR REICHMAN: --in Bucharest.[00:19:24.24] INTERVIEWER: Right, I'm sorry. Right.<sup class=\"footnote-ref\"><a href=\"#fn-V-1\">V-1</a></sup>"
+      }
+    },
+    {
+      "id": "AYx0t9tqJi",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-1",
+        "label": "V-1",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\" https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=1155&e=1200\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "riuC0KiNjt",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "In another section, an interviewer made a\nforced return to a certain episode, even though Meir was already exploring\nanother period of his life. More than 40 minutes into recording, with Meir was\ntalking about the 1948 Independence War, out of the blue an interviewer comes\nout with a question about life in the orphanage, without any connection with\nthe things Meir is now telling:"
+      }
+    },
+    {
+      "id": "hfwAsqbP64",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:42:52.62] INTERVIEWER: Could we go back a little bit in your story? Do you remember what life was like in the orphanage during the time that you lived there, after the beginning of the war?<sup class=\"footnote-ref\"><a href=\"#fn-V-2\">V-2</a></sup>"
+      }
+    },
+    {
+      "id": "BvpYzfHOdw",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-2",
+        "label": "V-2",
+        "text": "Tape I ",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\" https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=2572&e=2580\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "XsYPLnRXbi",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Finally, some questions seem deliberately emotionally\ncharged, contrary to the interview methodology.<sup class=\"footnote-ref\"><a href=\"#fn-13\">13</a></sup>&nbsp;For\ninstance, an interviewer induces the answer by asking Meir:"
+      }
+    },
+    {
+      "id": "y177aendAW",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-13",
+        "label": "13",
+        "text": " Shenker, <i style=\"mso-bidi-font-style:\nnormal\">Reframing Holocaust</i>, 32.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "5T3qp-9MDk",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:28:51.95] INTERVIEWER: So you had to, as a child, you were contending both with being a Jew, and also with being a Jew who was a Zionist. [And she goes further.] [00:29:03.47] INTERVIEWER: Was that-- but was that difficult for you? Was it painful that even your Jewish-- the other Jewish orphans would bully you? [When replying, Meir tried to nuance his answer, but he was hindered by language issues:] [00:29:16.28] MEIR REICHMAN: Well, that was not the-- How I can I--<sup class=\"footnote-ref\"><a href=\"#fn-V-3\">V-3</a></sup>"
+      }
+    },
+    {
+      "id": "DiDuzEGKqx",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-3",
+        "label": "V-3",
+        "text": "Tape I ",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=1731&e=1770\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "RQQEny7Miy",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Meir went through\nwars in Romania, Palestine and Cuba and survived them all. Let’s take a closer\nlook at his situation as a Holocaust survivor. Meir is one of the few victims\nin the Fortunoff archive who were not subject to deportation, as most of the\ntestimonies belong to Holocaust survivors who experienced the tragedy of camps\nand ghettoes in Auschwitz or Transnistria or elsewhere. Though I also investigate\npre-war Zionist movements whose members might have experienced later deportations,\nmy focus was on the young Jews from <i style=\"mso-bidi-font-style:normal\">Regat</i>,&nbsp;like Meir.<sup class=\"footnote-ref\"><a href=\"#fn-14\">14</a></sup>He also faced antisemitic policies and violence in the 1940s, but\nremained in the country until 1944 when he made <i>aliyah</i>. "
+      }
+    },
+    {
+      "id": "aZTh6NXZYH",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-14",
+        "label": "14",
+        "text": "The Holocaust in Romania began with the systematic politics of destruction against the Jews and the deprivation of their civil and political rights and culminated with the deportation of the Jewish communities from the provinces of Bessarabia, Bukovina and northern Moldavia to the ghettos of Transnistria (1941-1942). The Jewish inhabitants living in the other regions within Romanian borders, <i>Regat</i>, faced violence, discriminatory measures, forced labor, and had to adapt to a restrictive life. However, these communities were safe in terms of survival, for here the “cleansing” plans failed.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "RMNniPsU0f",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "After arriving in\nPalestine, Meir struggled to adapt, undergoing different forms of training and\npolitical orientation. He was sent first to a yeshiva under the religious\nAgudat Yisrael party, but ended up in a secular kibbutz. Israel didn’t become\nhis permanent home. If <i>home</i> was for Meir a volatile concept, difficult\nto frame, so was probably the notion of <i>family</i>. Since he lived most of\nhis childhood in an orphanage, Meir didn’t have close relatives to mourn after\nthe Holocaust. But not being aware of family that might have perished during\nthe Holocaust doesn’t equate with a lack of what could be called personal\ntrauma. From a psychological perspective, Henry Greenspan showed that <i>trauma</i>\nshould be understood as one of several kinds of survivor’s anguish. While trauma’s\nparticular horror is “unqualified helplessness in the face\nof imminent annihilation,” other agonies might be experienced by victims in the\ncontext of genocide.<sup class=\"footnote-ref\"><a href=\"#fn-15\">15</a></sup>Such agonies were actually behind\nMeir’s decision to testify:"
+      }
+    },
+    {
+      "id": "xZlcb8eEqK",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-15",
+        "label": "15",
+        "text": "Greenspan et al., “Engaging Survivors,” 215.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "hCOOzkOvXp",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:04:55.53]\nMEIR REICHMAN: The-- the first years after I-- I passed, and I start a new\nlife, I wanted to forget the past. As an orphan, I will say as an orphan, it\nwas for me, easier to forget than if I will be raised on a normal household,\nraised with the family, but-- and with parents, mother, father, and so.<sup class=\"footnote-ref\"><a href=\"#fn-V-4\">V-4</a></sup> "
+      }
+    },
+    {
+      "id": "RaMY5md5tr",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-4",
+        "label": "V-4",
+        "text": "Tape II",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57659&t=295&e=320\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "DC7jJON_qK",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:05:28.21] Later on,\nafter many years, I thought about till-- till about three years, four years\nago, three years, '89, '89. I happen to be involved in an accident, which\nhead-on collision. The big guy-- it was a big truck, hit me straight on me. And\nI got very shocked, very trauma. And it happened to be a big man, a big Polish\nman, which reminds me of one of the Romanian Germans.<sup class=\"footnote-ref\"><a href=\"#fn-V-5\">V-5</a></sup>"
+      }
+    },
+    {
+      "id": "9T5m957PPA",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-5",
+        "label": "V-5",
+        "text": "Tape II",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57659&t=328&e=360\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "XdIifKc0Vh",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:07:04.68] MEIR REICHMAN: […] And I went to a\nconsult, I went to psychiatrist. I want to help, and I start getting more and\nmore open, even to my second wife. I never told her what how-- happened to me\nduring the Holocaust, how I survived all the-- all the years, and what misery I\nhad.<sup class=\"footnote-ref\"><a href=\"#fn-V-6\">V-6</a></sup> "
+      }
+    },
+    {
+      "id": "U-6cEG1TnB",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-6",
+        "label": "V-6",
+        "text": "Tape II",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57659&t=424&e=450\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "WpZAzhkH4M",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Holocaust memories deeply buried were thus revived by an accident four\ndecades later. Meir started to confess as a form of therapy, because, as Dori\nLaub argues, “none find peace in silence, even when it is their choice to\nremain silent. Moreover, survivors who do not tell their story become victims\nof a distorted memory […].”<sup class=\"footnote-ref\"><a href=\"#fn-16\">16</a></sup>Meir’s testimony is a mixture of personal experiences and introspection against\na more or less accurate historical background about the persecution of Jews in\nRomania. Even though he was not a direct victim or witness of some of the\nevents he describes, Meir sketches the history of the Holocaust in Romania out\nof a sense of duty and responsibility. As Greenspan shows, this aspect is\ncentral to many testimonies, as survivors express their need to transmit “messages,”\nwhich should not necessarily be i with “lessons”:<sup class=\"footnote-ref\"><a href=\"#fn-17\">17</a></sup>"
+      }
+    },
+    {
+      "id": "8tqKvRwaY3",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-16",
+        "label": "16",
+        "text": "Dori Laub, “An Event Without a Witness: Truth, Testimony and Survival,” in <i style=\"mso-bidi-font-style:normal\">Testimony: Crisis of Witnessing in Literature, Psychoanalysis, and History</i>, eds. Shoshana Felman, Dori Laub, (New York, London: Routledge, 1992), 79.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "hTA6ed8BPv",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-17",
+        "label": "17",
+        "text": "Greenspan et al., “Engaging Survivors,” 194. \n",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "Ql18342i4h",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:08:37.73] We are not\nsupposed to forget. We are supposed to remind, and talk about it, and talk\nabout it. Till there's not going to be, again, a Holocaust, what happened to\nus. That's what I want to tell my story.<sup class=\"footnote-ref\"><a href=\"#fn-V-7\">V-7</a></sup>"
+      }
+    },
+    {
+      "id": "Qpey9eXDC3",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-7",
+        "label": "V-7",
+        "text": "Tape II",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57659&t=517&e=560\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "E5AR53kP5j",
+      "type": "header",
+      "data": {
+        "text": "III.\nPersonal and historical timeline",
+        "level": 2
+      }
+    },
+    {
+      "id": "RrHZQtQd7A",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "While stepping back and forth on the timeline, Meir’s\ntestimony revolves around certain main themes. Some have a direct connection\nwith his life story and the ways in which he experienced his Jewishness: the\ncity of Iași in the late 1930s and during Ion Antonescu’s dictatorship; life in\na Jewish orphanage; emigration to Palestine in 1944 and the different paths for\nmaking a living; Israeli's Independence War in 1948. Other themes are developed\nas part of a mission to disseminate the history of the Holocaust in Romania. Thus,\nMeir provides more or less accurate details about the arising of antisemitism,\nthe pogrom in Bucharest (January 1941), the pogrom in Iași (June 1941) and the deportation\nof the Jews to Transnistria (1941-1942). The following will discuss these themes,\nwhile more detailed explanations are provided in the annotations below the\ntestimony itself. A separate section discusses Meir’s temporary collaboration\nwith the Zionist underground movement in Bucharest in the summer of 1944."
+      }
+    },
+    {
+      "id": "4Y2Gy485os",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Iași,\nan important city in north-eastern Moldova, provided the urban environment in\nwhich Meir grew up. He was born in the city in 1931, his mother dying in\nchildbirth. Meir spent his first years with an aunt but was then institutionalized\nin an orphanage managed by the local Jewish community. In the 1930s, Iași was a\ncity with a large Jewish population, established since the Middle Ages. Out of\na total population of over 102,000 inhabitants, the Jews represented 33,7%.<sup class=\"footnote-ref\"><a href=\"#fn-18\">18</a></sup>The community developed a school network and religious and social institutions,\nincluding two orphanages.<sup class=\"footnote-ref\"><a href=\"#fn-19\">19</a></sup>The\ncultural life of the city revolved around the Romanian National Theater, an\nartistic space where the young boy “escaped” from daily life when performing\nsmall parts in theater plays. Close to the National Theater was the Jewish\nTheater, a proud emblem of Yiddish culture and language. Meir’s orphanage was\nlocated in the center of the city, close to both these institutions, which\ntogether symbolized two distinct cultures and languages enjoying the same urban\nenvironment. "
+      }
+    },
+    {
+      "id": "OHOnf8EzSz",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-18",
+        "label": "18",
+        "text": "Data from <i style=\"mso-bidi-font-style:normal\">Recensământul general al populației României din 1930</i>, vol. II (București: Imprimeria Națională, 1938).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "gyox7CCRkz",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-19",
+        "label": "19",
+        "text": " I. Kara, <i>Contribuții la istoria obştii evreilor din Iaşi</i> (București: Hasefer, 1997).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "QZRSCAE_jh",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:34:44.93] MEIR\nREICHMAN: Yeah, because, of course, in my orphanage there used to be a big\nRomanian theater, national theater. And I used to participate in play, because\nchildren play, and most of the-- of the-- of the actors were Romanian. And\nthere were Romanian plays. So they used to take me to participate in different\nepisodes, you know. I used to-- that I was like the-- the-- the child. That's\nhow they used to adopt me, used to take-- I used to-- they used to take good\ncare of me, and that was before the-- before the war.&nbsp;[00:35:35.59] MEIR REICHMAN: I-- I want only to theater. I never want to move it, till I want in Israel and Palestine. Because most of the-- till the age of 11, I was at the theater. There was a national theater across from this orphanage home on one side. And the other side was a Jewish theater.[00:35:56.86] MEIR REICHMAN: It was the-- The Green Tree, the name of the theater. And I used to go to see Jewish plays. You know? So--<sup class=\"footnote-ref\"><a href=\"#fn-V-8\">V-8</a></sup>"
+      }
+    },
+    {
+      "id": "DO-Y8FqczL",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-8",
+        "label": "V-8",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=2084&e=2190\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "fA_sP-dAFw",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "In this university-city and cultural center of\nMoldova, the arising of antisemitism during the interwar decades was marked by\nthe student movements, the anti-Jewish propaganda of the university professor\nA.C. Cuza, and the establishment of the autochthonous fascist Legionary\nMovement, whose leader, Corneliu Zelea-Codreanu, was an intellectual product of\nthe local university.<sup class=\"footnote-ref\"><a href=\"#fn-20\">20</a></sup>For\nmany Jewish youngsters, the watershed was passed into a new world order in\n1937, when the first antisemitic government was installed, run by Octavian Goga\nand Cuza.&nbsp;"
+      }
+    },
+    {
+      "id": "f_mcY0DoOj",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-20",
+        "label": "20",
+        "text": "Dennis Deletant, <i style=\"mso-bidi-font-style:normal\">Romania, 1916-1941: A Political History</i> (London: Routledge, 2022).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "Ha4qSOnyTP",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "This government was followed shortly by the\nauthoritarian regime of King Carol II (1938-1940), which in turn collapsed two\nyears later, in the summer of 1940, when Romania suffered important territorial\nlosses. This led to the transformation of the country into a totalitarian state,\nwith racial legislation introduced that eliminated Jews from all spheres of\npublic life.<sup class=\"footnote-ref\"><a href=\"#fn-21\">21</a></sup>In the summer of 1941, Romania entered the war against the Soviet Union as a\nNazi ally. Iași\nbecame for Meir and other Jews an uncertain place of tension and fear, where\nthey experienced war as civilians and deprivations as Jews. For some young\npeople, this was precisely the time when they enrolled in Zionist youth\nmovements. In Iași,\nfor instance, Rudi Zimand enrolled in Hashomer Hatzair once the first\nanti-Jewish decrees entered into force in the summer of 1940: "
+      }
+    },
+    {
+      "id": "EtirMElTaJ",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-21",
+        "label": "21",
+        "text": " Denis Deletant, <i style=\"mso-bidi-font-style:normal\">Hitler’s Forgotten Ally. Ion Antonescu and his regime. Romania, 1940-44</i> (New York: Palgrave Macmillan, 2006).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "SqGEGJXl9W",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "“I accepted with enthusiasm, because I saw in emigration and the\nfounding of Jewish settlements in Palestine the only possibility of salvation.”\n"
+      }
+    },
+    {
+      "id": "NxKmyHRs01",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "After the war,"
+      }
+    },
+    {
+      "id": "aZydoHeaKY",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "“I considered the communist solution, which proclaims freedom and\nequality for all members of society, superior to the Zionist solution which\nbenefits only the Jewish people.”<sup class=\"footnote-ref\"><a href=\"#fn-22\">22</a></sup>"
+      }
+    },
+    {
+      "id": "RuoDnCGV1u",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-22",
+        "label": "22",
+        "text": "Rudi Zimand, “Cum am străbătut patru regimuri social-politice,” <i style=\"mso-bidi-font-style:\nnormal\">Revista Baabel</i>, no. 287 (2019), &nbsp;<a href=\"https://baabel.ro/2019/01/cum-am-strabatut-patru-regimuri-social-politice/\">https://baabel.ro/2019/01/cum-am-strabatut-patru-regimuri-social-politice/</a>. ",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "CcAsKVs9SZ",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Meir also\nremembers changes in daily life at the orphanage once the war broke out:"
+      }
+    },
+    {
+      "id": "2RpnrQ7qXb",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:04:48.80] We were\nvery treated badly. We-- we didn't have school. We interrupt the school. Then\ninterrupt everything. We just were-- we were working, and we uh-- how were we\ncalled? We did-- [INAUDIBLE] send us away. We were still till the end of the\nwar.<sup class=\"footnote-ref\"><a href=\"#fn-V-9\">V-9</a></sup>"
+      }
+    },
+    {
+      "id": "Pfr76ra8ip",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-9",
+        "label": "V-9",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=288&e=320\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "TRhuVMohC6",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "A sketching of the main tragic episodes of the\nHolocaust in Romania is a main aspect of Meir’s testimony. He maps the\nHolocaust around the two cities he lived in during the war (Iași and, for a short time, Bucharest), which\nhappened to be the stage for extreme violence against the Jews. In the\nchronological order of the events, physical violence against Jews was first marked\nby the Pogrom in Bucharest, in January 1941, with 120 victims. During the\nlegionary rebellion against Ion Antonescu, armed legionaries attacked the\nJewish neighborhoods and arrested hundreds of Jews who were violently beaten in\npolice basements. Tens of Jews were transported to a forest close to the city and\nbrutally murdered. Others were killed in the courtyard of a butcher shop and\nhanged on butcher hooks (a brutal episode that is described also by Meir ).<sup class=\"footnote-ref\"><a href=\"#fn-23\">23</a></sup>After two days of atrocities, Antonescu suppressed the rebellion and ended the\nNational Legionary State regime. "
+      }
+    },
+    {
+      "id": "HZWd_YIaod",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-23",
+        "label": "23",
+        "text": " Radu Ioanid, <i style=\"mso-bidi-font-style:normal\">The Holocaust in Romania: The Destruction of Jews and Gypsies under the Antonescu Regime, 1940-1944</i> (Chicago: Ivan R. Dee, 2000), 52-60.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "JkFxUnEXAM",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:30:24.76] MEIR\nREICHMAN: But later on, I-- you know, I-- I think what-- when I was in\nBucharest that-- that the family where I was waiting, that's when I was-- what\ndo you call it? Waiting for till I go to, uh, Palestine. They told me how two\nyears before, what happened in-- in Bucharest. How the-- the gendarme, the Iron\nguard, all the-- the ones that they pick up the Jewish for about 200, the very\nfamous Jews from the town, and the bottom to-- to the slaughterhouse.[00:31:06.85] And they cut them and they hang them up in pieces, and they-- and they wrote, that's kosher meat. That's the atrocity which was, because we told them what happened in Iasi in the pogrom. So they tell me, it happened here too, not in the thousands, but in the few hundreds. Because Bucharest was very-- it was very influenced politically by the Jewish people, by the government.[00:31:36.40] And later on, I find out that not only the-- the army, and the political, but every-- the-- the plain citizen of Romania, the-- all the intellectual, they were very much involved to destroy the Jewish-- the Jewish people, only because we're Jewish, nothing else.<sup class=\"footnote-ref\"><a href=\"#fn-V-10\">V-10</a></sup>"
+      }
+    },
+    {
+      "id": "kHdGR32tOE",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-10",
+        "label": "V-10",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=1824&e=1944\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "fadFXmbtGU",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "After the Legionary Movement was outlawed and removed\nfrom power, Ion Antonescu continued to implement racial and Romanianization\npolicies. In the summer of 1941, when Romania entered the war against the Soviet\nUnion, a tragic pogrom against the Jews took place in Meir’s home city. In June,\nafter intense propaganda that accused Jews of being communist spies, the\nRomanian army together with German soldiers and some local civilians attacked\nJewish homes. A main context was the accusation that a year before, in the\nsummer of 1940, when the Romanian army had retreated without a fight from the\nterritories annexed by the Soviet Union, the local population, including Jews,\nattacked the Romanian soldiers, increasing the humiliation. "
+      }
+    },
+    {
+      "id": "JmEuWUide-",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "During the pogrom in Iași, Jews were killed on the streets and\nsome were shot in the courtyard of the police station, close to Meir’s\norphanage. Hundreds of Jews, most already wounded, were put into two cattle\ntrains: one went to Podu Iloaiei, a locality less than 30 km from Iași, where\nthe train arrived after eight hours; the other went to Călărași, a city in\nsouthern Romania, where the train arrived after seven days. The train cars had\nwindows and doors sealed. In these inhumane conditions, many Jews lost their\nlives before arriving at the destination.<sup class=\"footnote-ref\"><a href=\"#fn-24\">24</a></sup>"
+      }
+    },
+    {
+      "id": "Hi1irX0bL8",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-24",
+        "label": "24",
+        "text": "Carol Iancu, Alexandru Florian Platon (coord.), <i style=\"mso-bidi-font-style:normal\">Pogromul de la Iaşi şi Holocaustul în România: Le Pogrom de Iaşi et la Shoah en Roumanie</i> (Iași: Editura Universității Al. I. Cuza, 2015).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "eiTPN8R1lo",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:05:13.68] We were in\na situation in the middle of the-- of the town. And one day in August, the--\nthe Romanians start taking all the-- the Jewish from different parts of the--\nof the city, and just start killing them. They were in front of our-- of this\norphanage house was a big place, a big-- like a plaza. So they took few-- quite\na few hundred people. And they put gas around them. And they light fire, and\nhook-- and people started running in hooves and then they shoot them.\n[INAUDIBLE] they survive, with the machine gun, they shoot them.[00:06:06.24] I saw all this. And like I was about 200 yards from me, in front.[00:06:13.97]&nbsp;INTERVIEWER: How old were you at that time?[00:06:15.69] MEIR REICHMAN: I was the old-- I was about 11 years old. 11, 12. And then, another episode which I recall, was the [INAUDIBLE] there was to pick up the people who used to give me red flags. And you say, you're a communist. And used to shoot them. All of them.[00:06:41.04] There was the big, uh-- the pogrom, what happened in the city Iasi. In two days, they just-- the Romanians and the Germans, they just went wild. There was a rampage. They-- they dragged the people and they just shoot them. They killed them only because-- because they were Jewish. Not-- nothing else.[00:07:55.98] And the rest of them, they-- they put them in the train. And uh, the cattle train, they lock up like sardines, and they took them out-- out of town. And they let them-- for two or three days, they let them sit over there, and then they open. And who survived to make the grave for them? And then the rest, then they shoot them.<sup class=\"footnote-ref\"><a href=\"#fn-V-11\">V-11</a></sup>"
+      }
+    },
+    {
+      "id": "r3sDdiLIlB",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-11",
+        "label": "V-11",
+        "text": "Tape I ",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=313&e=510\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "McwwNfiYFf",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "The Holocaust in Romania culminated with the\ndeportation of the Jewish communities of Bessarabia, Bukovina and northern\nMoldova to the ghettos and camps in Transnistria. The deportations started in\nthe autumn of 1941 but were suspended by Antonescu a year later. Between 105,000\nand 120,000 Jews deported from Romania perished in Transnistria, together with\n115,000-180,000 local Jews and around 11,000 Roma victims. Some of Meir’s colleagues\nfrom the orphanage might have been deported, or sent to forced labor.<sup class=\"footnote-ref\"><a href=\"#fn-26\">26</a></sup>"
+      }
+    },
+    {
+      "id": "P7lustnVKv",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-26",
+        "label": "26",
+        "text": " The International Commission on the Holocaust in Romania, <i style=\"mso-bidi-font-style:normal\">Final Report</i> (Iași: Polirom, 2004).",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "-FOgBxG2sb",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:04:04.58] The bigger\nkids they took away from the age of 15 till uh-- till 20. And they send them\ndifferent paths. They send them away to Transnistria, which there was a labor\ncamp, a big labor camp.<sup class=\"footnote-ref\"><a href=\"#fn-V-12\">V-12</a></sup>"
+      }
+    },
+    {
+      "id": "pdCZ5s9sBS",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-12",
+        "label": "V-12",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=244&e=280\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "hx0_z4xb47",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:46:39.16] MEIR REICHMAN: That was a working camp. They send them to Transnistria, which is a-- [? [NON-ENGLISH] ?] a river, from that Dnipro River, I think. I forgot that's part of the Ukraine. So they send them over there, and they make the camp to die. Just-- just to die, to get rid. I was lucky that they didn't send us. We're supposed to go also though to Transnistria.<sup class=\"footnote-ref\"><a href=\"#fn-V-13\">V-13</a></sup>"
+      }
+    },
+    {
+      "id": "iuHZKBpAfd",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-13",
+        "label": "V-13",
+        "text": "Tape I ",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=2799&e=2840\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "CklIiR80Tr",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Meir survived the Holocaust and, when the war was\nalmost over, left Romania without\nlooking back. The way he related to his city and country of birth is\na consequence of the persecution he suffered, but also of his orphan status. Where is home and what is family for an orphan? The\nofficial reports of the orphanage reveal in the institutional history the\nstruggle of the administration to properly manage the children’s house. Not\nmuch can be discovered about daily life inside the orphanage, however. Meir\ndoesn’t offer a detailed description either; what he does emphasize, and often,\nis the discontent he felt around the other children and his wish to go to\nPalestine:"
+      }
+    },
+    {
+      "id": "ywSfz4_yH3",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:28:13.10] MEIR\nREICHMAN: Yes. I thought, since I remember, I thought I want-- I want to go to\nPalestine. Because the-- the kids, I remember used to bully me, to say what,\nPalestine is-- is a very small place. They used to have a song, Palestine is small,\nit's small. It's no good. OK, so they used to tease me. And I-- I will never\nforget that, you know?<sup class=\"footnote-ref\"><a href=\"#fn-V-14\">V-14</a></sup>"
+      }
+    },
+    {
+      "id": "IhTJZzF2Zc",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-14",
+        "label": "V-14",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=1693&e=1740\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "Q1k_wRJR3J",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Unfortunately,\nMeir never reveals how he became a Zionist, nor if he was ever a member of a\nyouth organization, or ever attended any meetings, or had other Zionist peers. Membership\nusually involved paying a fee and taking part in training lessons and other\nactivities, which might have been difficult for a child living in an orphanage. The interviewer fails to shed light on this aspect,\nlimiting intervention only to rephrase Meir’s information:"
+      }
+    },
+    {
+      "id": "j-9icVuUfR",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:28:51.95]\nINTERVIEWER: So you had to, as a child, you were contending both with being a\nJew, and also with being a Jew who was a Zionist.<sup class=\"footnote-ref\"><a href=\"#fn-V-15\">V-15</a></sup>"
+      }
+    },
+    {
+      "id": "g31hwDsLow",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-15",
+        "label": "V-15",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=1693&e=1740\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "avmsJ0nFin",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Was Meir a conscious Zionist at an early age or was he\nactually looking for a place he could call home? Probably a bit of both.\nZionism was well disseminated in the city of Iași, through the Zionist press\nand the university student association Hasmonea. While Zionism seems to be a\nstrong side of his pre-teenage identity, Meir’s connections with religious\nJudaism are revealed by his memories of attending the <i>heder</i> and keeping\nsome of the Jewish traditions. Religion didn’t play a central role in his life,\nthough, and most of his memories of practicing religion are somehow traumatic. Even\nwhen he reached Palestine, after a short experience in a religious institution\nunder the patronage of the religious party Agudat Yisrael, he opted for secular\ntraining and life in a kibbutz. "
+      }
+    },
+    {
+      "id": "eV_BFSczlA",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:54:33.52] MEIR\nREICHMAN: The Agudat Yisrael was not too far from Petah Tikva. There was a\nnew-- a new institution, very new. And like I said, we just came from the boat.\nAnd they brought me over there. We were maybe 20 people we were over there. [00:54:54.49] And all the-- the rabbis, they wore beards, you know, and I was not too-- I was afraid. Because when I was-- when I went to cheder till about five years old, from five till one year, maybe one year later. So the rabbi used to put me, and he used to-- because I didn't know the [? alphabet. ?] So he used to give me an—[…][00:55:21.91] MEIR REICHMAN: With a rod, he used to put me, you know. So they all used to wear-- that was before the war. They used to wear a black beard, you know, so here I see again, you know. So-- and they give me a--[00:55:34.41] INTERVIEWER: A yarmulke.[00:55:34.66] MEIR REICHMAN: I was no-- they give me a yarmulke, to sleep with the yarmulke, and to force me to daven, to start daven. And after a while, I didn't-- I didn't want it. I didn't like it.<sup class=\"footnote-ref\"><a href=\"#fn-V-16\">V-16</a></sup>"
+      }
+    },
+    {
+      "id": "iv2eBhNBx2",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-16",
+        "label": "V-16",
+        "text": "Tape I ",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=3273&e=3360\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "7Ztq-GnDos",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "In 1944, Meir opened a new chapter of his life in Palestine,\na chapter also marked by violence as he fought in the Independence War of 1948,\naged only 16 years. His description of the night watch when his friend was shot\nwhile defending a Jewish settlement recalls one of the many traumas experienced\nby Meir at such an early age."
+      }
+    },
+    {
+      "id": "WXQO7mPbgs",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:51:43.32] MEIR\nREICHMAN: Well, the feel-- that was very scary. I tell you that. Because I\nsurvived all this, and now I'm in the war. And not that I fought that, then\nduring-- when I was raised in this kibbutz, particular, then a friend of mine,\nwe-- we conquer a hill, not far from the-- from the settlement. And we\nestablished a fortified--&nbsp;[00:52:09.83] MEIR REICHMAN: OK, fort. And we used to have a watch at night. So I was-- one night I went with him to watch. And every couple hours, we used to-- to-- to change the watch. So the Arabs, they were for about quite a few hundred yards from the settlement. And at once, we-- we heard a few shots, from a-- from a machine gun, wild shots. I was on the watch, and my friend was asleep.[00:52:46.42] So after two hours, or something. I wake him up. I say, [? Avram, ?] let's change. And then I put my hand. And he said-- and it's full of blood. A bullet, a wild bullet, hit him direct when he sleep in a trench. And he was 17. He was 17.<sup class=\"footnote-ref\"><a href=\"#fn-v-17\">v-17</a></sup>"
+      }
+    },
+    {
+      "id": "BFDwj4Hxx4",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-17",
+        "label": "V-17",
+        "text": "Tape I",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57658&t=3103&e=3200\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "nCUKlUx-Kb",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Though one of the contributors to the creation of the Jewish\nstate, Israel was not to be his permanent home, for Meir ended up living in the\nUnited States. After a traffic accident that seems to have opened old wounds,\nhe engaged in a therapy process that entailed dealing with his past and sharing\nhis experience and Holocaust history with others."
+      }
+    },
+    {
+      "id": "OUavsSRlfV",
+      "type": "header",
+      "data": {
+        "text": "IV.\nPolitical activism and resistance in the testimonies of the Fortunoff archive ",
+        "level": 2
+      }
+    },
+    {
+      "id": "7DsPKRPG62",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "The Zionist underground and youth resistance are not dominant\nthemes in the testimonies of the Fortunoff oral archive. Most survivors, including\nthose from Romania, were victims of deportations to camps and ghettoes, unable\nto resist persecution but lucky enough to survive and rebuild their lives after\nthe Holocaust. However, there are a couple of life stories that connect. On one\nlevel, it’s about the Jewish youngsters involved in political activism in the 1930s,\nonce antisemitism started to rise. Most of the survivors that share these\nexperiences are men, with origins in the Moldova region or Transylvania. Some\nfirst joined Zionist youth organizations out of a sense of adventure, or wish\nto belong to a certain peer group that combined Zionist knowledge with boy\nscouting. But as already mentioned, they started to feel the growing tension of\nantisemitism once the first anti-Jewish legislation was implemented in 1937 and\nthey became direct victims when Romania transformed into a totalitarian state\nin September 1940. "
+      }
+    },
+    {
+      "id": "Exi8l59UX2",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "For some youngsters, a first encounter with Zionism\ntook place within their families, with parents who were supportive of the\nZionist cause. For instance, Martin M.\nremembered:"
+      }
+    },
+    {
+      "id": "JjUzjToaHL",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:07:26] – I was raised on Zionist background and my wishes were that when I get to Israel, I would go to kibbutz and fulfill my Zionist ideas. […].<sup class=\"footnote-ref\"><a href=\"#fn-V-18\">V-18</a></sup>"
+      }
+    },
+    {
+      "id": "_phGxr48Ds",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-V-18",
+        "label": "V-18",
+        "text": " Martin M., HVT 3837 ",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/dr2p55g820\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "-Ah8hThQXk",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Others joined Zionist movements against their parents’\nwill, as G. Sandor shows:"
+      }
+    },
+    {
+      "id": "nA8Llk2UHq",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:21:53] […] But as the boys grow, they did what they wanted. So it became obvious that they, uh, joined our organization openly, in spite of the, uh, parents, uh, uh, will. And still, uh, uh, they were, till the end, against, you see. I remember that, uh, some instances, the opposition was so strong that, uh, we really-- we were, uh, giving, you know, some backing by force to tell the parents that we will, uh, defend the boy if you will do something against him, if you are not allowing to come with us."
+      }
+    },
+    {
+      "id": "NCMaazhCQT",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-1",
+        "label": "1",
+        "text": " Sandor G., HVT 230.",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/vh5cc0wr7b\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "DwYCzDPaWN",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "A different situation confronted Meir, as he didn’t\nhave a family he could relate to in this context. Since the political activism\nwas forbidden to all students during the authoritarian regime of King Carol II,\nMeir must have hidden his belonging to a certain group. Or, he might have\nembraced Zionist ideals without being a formal member of any actual organization.\nWhat Meir emphasizes in his testimony is his strong will to immigrate to\nPalestine, a desire common to most of his Zionist peers."
+      }
+    },
+    {
+      "id": "K7wanyA_z1",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Resistance during the Holocaust is a key aspect of the\npolitical activism of these youngsters. Some young Zionists from different\nparts of the country moved to Bucharest after they were expelled from training\nfarms, during the Romanianization process. For some, this meant escaping the\ndeportations to Transnistria ordered by Antonescu when Romania entered the war\n(summer 1941).&nbsp;"
+      }
+    },
+    {
+      "id": "magwndsHB1",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "The legionary rebellion was defeated by Ion Antonescu,\nwho then became the ruler of the state (1941-1944). In this period, the Jews in\nRegat – and especially in Bucharest – were safe in terms of survival, even if they\nstill had to face oppression, spoliation, forced labor and violence. The fact\nthat the young Zionists in Bucharest were not subjected to deportations allowed\nthem to engage in rescue actions. "
+      }
+    },
+    {
+      "id": "CEYXVfP2b1",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "The Zionist youth\norganizations experienced two distinct periods during the war. The first (summer\n1940 – summer 1942) is framed by the change of regime in 1940 and the racial\nlegislation and its consequences. However, in these two years, Zionist youth\norganizations were not banned by any legal provisions. The second period (spring\n1942 – August 1944) was marked by institutional transformations within the Jewish\ncommunities, with the Jewish Federation replaced by the Jewish Council (Centrala),<sup class=\"footnote-ref\"><a href=\"#fn-27\">27</a></sup>&nbsp;a\nstate-controlled structure representing the Jews, whose leaders were\ncollaborating with the Antonescu regime. Soon after, on 7 August 1942, the\nZionist Organization was disbanded along with all its youth associations.<sup class=\"footnote-ref\"><a href=\"#fn-28\">28</a></sup>&nbsp;From\nthis point, Zionist activity did not cease, but continued to operate illegally,\nunderground. Subversive actions were deployed also by youth organizations, with\nsome intimately involved in the rescue actions of Jewish victims from Bukovina\nand Transnistria and of the refugee Jews from Poland. According to the police investigations, in this period the active <i>halutz</i>\norganizations were the leftist Hashomer Hatzair, Gordonia, Dror; the centrist\nHanoar Hatzioni; and the religious Mizrachi.<sup class=\"footnote-ref\"><a href=\"#fn-27\">2</a>9</sup>"
+      }
+    },
+    {
+      "id": "V3A2jsWWFI",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-27",
+        "label": "27",
+        "text": "The Jewish Council (Centrala) was the official representative of the Jewish population, imposed by the Romanian authorities and created through Law no. 1090/December 16, 1941, which abolished the former Federation of the Union of Jewish Communities in Romania. Once Centrala commenced work, the intentions of the Romanian authorities to dissolve the activity of the Zionist organization and of the <i>halutim</i> became obvious.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "0NhMAunX_Y",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-28",
+        "label": "28",
+        "text": " Order of Centrala no. 9532, on August 7, 1942. ",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "Uqpw_-0q1M",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-29",
+        "label": "29",
+        "text": "\nNotă informativă sintetică a Prefecturii Poliției Capitalei referitoare la anchetarea organizațiilor de tineret sioniste, 24 February 1944, p. 1.",
+        "embedCode": ""
+      }
+    },
+    {
+      "id": "nsSLV9_9KN",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Most\nof the actions were performed with\nsupport and money from the Jewish community in Palestine (Yishuv) and the United\nStates, whose delegates worked from the neutral centers of Geneva and Istanbul.\nRescue actions involved not only financial support but also organized\ncoordinated teamwork. The underground network functioned with the tacit\napproval of the Romanian authorities, who accepted the bribes, but also by\nestablishing connections and working with temporary\ncollaborators for specific tasks. One such temporary collaborator was Meir. In\nthe spring-summer of 1944, while he was in Bucharest waiting to sail to\nPalestine, he helped the Zionist underground by delivering certain information.\nAs already mentioned, he does not mention the organization he was collaborating with:"
+      }
+    },
+    {
+      "id": "MSK6FpKQLV",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "blockquote",
+        "text": "[00:32:37.16] MEIR REICHMAN: […] Also by the end of\nthe, uh, by the end of the war, nearly the end in Bucharest, there was the\nunderground. It was the Jewish underground, which they used to send me with\ndifferent messages. Because by this time, the Jewish start fighting against the\nGerman. It was only a couple of months before the end. But that was organized,\nand there was fighting against the German. It was like a small underground. [00:33:18.58] So I used to go and supply them with information for different-- where the Germans are in the city for different parts of the town. I used to supply them with, even with, as I recall, with-- with food, and with information, and with sometimes some arms.[00:33:38.29] Because I was a little, and it was easy to sneak in between all the streets, not-- not to see me.&nbsp;[00:33:51.82] MEIR REICHMAN: That-- I remember that the-- this family, they come to me, and someone look. I got some papers here, take that, and run to point, to this post, from now. Because I-- they told me the-- the street, and I just--[00:34:10.56] INTERVIEWER: You just did it.[00:34:11.62] He didn't think about why or who.[00:34:13.99] MEIR REICHMAN: Also, I didn't look like Jewish. When I was little, I didn't know I was, I looked like-- like a gentile, like a little Romanian. No, it was nothing. I didn't have a big nose. I didn't have nothing. OK? So I was very easy I could--"
+      }
+    },
+    {
+      "id": "8II5fYCzwj",
+      "type": "footnoteParagraph",
+      "data": {
+        "id": "fn-",
+        "label": "",
+        "text": "Tape I ",
+        "embedCode": "<div style=\"padding:56.25% 0 0 0;position:relative;overflow: hidden;width: 100%;\"><iframe style=\"position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;\" src=\"https://fortunoff.aviaryplatform.com/r/qb9v11vs1v?media=57659&t=1957&e=2077\" allow=\"fullscreen\" frameborder=\"0\"></iframe></div>"
+      }
+    },
+    {
+      "id": "GbwlIs5din",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "The\nunderground network always based its rescue activities on collaboration with\nborder smugglers, authorities, Jewish leaders and temporary collaborators for\nspecific tasks, like Meir. At the age of 13, Meir was contributing to the\nrescue of Jewish victims in Romania, while himself only a helpless boy. Transmitting\nmessages on a piece of paper might not seem like a dangerous action, but had he\nbeen caught by the authorities he would have faced the charge of subversive\nacts against the state. "
+      }
+    },
+    {
+      "id": "PoebUhp0a4",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "<b style=\"mso-bidi-font-weight:normal\">V. Conclusion</b>"
+      }
+    },
+    {
+      "id": "bMYVDJwOcW",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Meir’s\nchildhood and youth are marked by episodes in which he witnessed persecution or\nwas in a position of fighter and rescuer, probably without even being aware of\nit. His testimony is an insight into an exceptional life story lived in\nexceptional times. Meir\nwas a simple Jewish male, without much education or distinguished intellectual\ntraits. But it is this simplicity combined with exceptional events he witnessed\nor experienced that makes his life story unique. A man of multiple lives, Meir\nseems to have been born under the sign of survival: he was the survivor at\nbirth; in the orphanage; he survived the bullying of the Nazi officer who shot at\nhim out of amusement; while preparing to sail to Palestine he missed <i>Mefkure</i>,\nthe boat that eventually sank, and embarked on another boat that reached its destination;\nin the 1948 Independence War his friend was killed by a chance shot whilst on\nnight watch while Meir escaped; years later, as a sailor in the Israeli\nMerchant Marine, he was stuck in Cuba during the revolution and again survived\nthe shooting. "
+      }
+    },
+    {
+      "id": "yd3_lPyssY",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "Through\ncontextualizing and explaining Meir’s story, I have tried to show how\npersecution was perceived in Romania by the young Jewish generation and how\nthey responded to antisemitism. A main focus was on the lives of those Jews who\nwere not deported, but faced oppression in Romania, though able to survive. The\nstatus of Meir as an orphan and Zionist is even more revealing, opening new\nresearch questions on individual and ethnic identity. Though underground\nresistance is a minor aspect of Meir’s life during the Holocaust, his entire\nlife is a story of resistance and survival."
+      }
+    },
+    {
+      "id": "Xm0Cqpk8kW",
+      "type": "paragraph",
+      "data": {
+        "paragraphType": "paragraph",
+        "text": "&nbsp;"
+      }
+    }
+  ]
+}
