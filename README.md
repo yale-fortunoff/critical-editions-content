@@ -34,3 +34,35 @@ Holds images, videos and pdfs relevant to the editions.
 The naming convention of the paths and files is important for the website to function correctly.
 
 > **_NOTE:_** The folder `/critical-editions-content/media/media/hvt-xxxx/` holds images that can be referenced via `Image` blocks in the editor by filename.
+
+## AWS Cloudfront Cache Invalidation
+
+Needs to be done manually due to the folder structure of the S3 bucket not working well with the invalidation system.
+The following invalidation list would invalidate the complete public media but exceed the wildcard invalidation limit.
+Therefore we need to pick the ones that need invalidation manually.
+
+```
+/0170/*
+/0237/*
+/0536/*
+/0574/*
+/0764/*
+/2033/*
+/2348/*
+/2570/*
+/3038/*
+/3164/*
+/3169/*
+/3171/*
+/3178/*
+/3280/*
+/3384/*
+/4103/*
+/8008/*
+/pdf/*
+/media/hvt-0237/*
+/media/hvt-0574/*
+/media/hvt-2033/*
+/media/hvt-2348/*
+/media/hvt-3178/*
+```
