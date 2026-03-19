@@ -1,6 +1,21 @@
 {
   "essays": [
     {
+      "hvtID": "3384",
+      "id": "hvt-3384",
+      "slug": "hvt-3384",
+      "essayPath": "/data/intro-hvt-3384.json",
+      "posterPath": "https://d12q9fe14kxf9b.cloudfront.net/3384/poster.jpg",
+      "smallVideoPath": "https://d12q9fe14kxf9b.cloudfront.net/3384/background-loop-640.mp4",
+      "videoPath": "https://d12q9fe14kxf9b.cloudfront.net/3384/background-loop-1280.mp4",
+      "title": "Moshe Shutan ",
+      "author": "Daniela Ozacky Stern",
+      "affiliation": "Western Galilee College",
+      "supertitle": "Introduction to the testimony of",
+      "aviaryLink": "https://fortunoff.aviaryplatform.com/c/mssa.hvt.3384",
+      "publicationDate": "May 14th, 2025"
+    },
+    {
       "title": "Meir Reichman",
       "hvtID": "2570",
       "id": "hvt-2570",
@@ -239,6 +254,7 @@
     "showSupertitlesOnIndexPage": false,
     "textOnlyIndexPage": false,
     "essayOrder": [
+      "hvt-3384",
       "hvt-2570",
       "hvt-4103",
       "hvt-3178",
